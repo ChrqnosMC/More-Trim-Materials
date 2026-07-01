@@ -1,0 +1,14 @@
+{
+    "gives": {
+        "id": "minecraft:slime_ball",
+        "components": {
+            "minecraft:provides_trim_material": "more_trim_materials:slime"
+        }
+    },
+    "max_uses": 5.0,
+    "reputation_discount": 0.05,
+    "wants": {
+        "count": 4.0,
+        "id": "minecraft:emerald"
+    }
+}

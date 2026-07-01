@@ -1,0 +1,9 @@
+{
+  "asset_name": "prismarine",
+  "description": {
+    "color": "#7fb5a7",
+    "translate": "trim_material.more_trim_materials.prismarine"
+  },
+  "ingredient": "minecraft:prismarine_shard",
+  "item_model_index": 0.35
+}

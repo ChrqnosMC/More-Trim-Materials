@@ -1,0 +1,8 @@
+{
+  "asset_name": "glow_ink",
+  "description": {
+    "color": "#4bdeae",
+    "translate": "trim_material.more_trim_materials.glow_ink"
+  },
+  "ingredient": "minecraft:glow_ink_sac"
+}

@@ -1,0 +1,65 @@
+{
+    "sources": [
+        {
+            "type": "minecraft:directory",
+            "prefix": "item/",
+            "source": "item"
+        },
+        {
+            "type": "minecraft:paletted_permutations",
+            "palette_key": "minecraft:trim_base",
+            "permutations": {
+                "amethyst": "minecraft:trim/amethyst",
+                "copper": "minecraft:trim/copper",
+                "copper_darker": "minecraft:trim/copper_darker",
+                "diamond": "minecraft:trim/diamond",
+                "diamond_darker": "minecraft:trim/diamond_darker",
+                "emerald": "minecraft:trim/emerald",
+                "gold": "minecraft:trim/gold",
+                "gold_darker": "minecraft:trim/gold_darker",
+                "iron": "minecraft:trim/iron",
+                "iron_darker": "minecraft:trim/iron_darker",
+                "lapis": "minecraft:trim/lapis",
+                "netherite": "minecraft:trim/netherite",
+                "netherite_darker": "minecraft:trim/netherite_darker",
+                "quartz": "minecraft:trim/quartz",
+                "redstone": "minecraft:trim/redstone",
+                "resin": "minecraft:trim/resin",
+                "armadillo_scute": "more_trim_materials:trim/armadillo_scute",
+                "blaze_rod": "more_trim_materials:trim/blaze_rod",
+                "bone": "more_trim_materials:trim/bone",
+                "breeze_rod": "more_trim_materials:trim/breeze_rod",
+                "coal": "more_trim_materials:trim/coal",
+                "dragon_breath": "more_trim_materials:trim/dragon_breath",
+                "echo_shard": "more_trim_materials:trim/echo_shard",
+                "end_crystal": "more_trim_materials:trim/end_crystal",
+                "ender_pearl": "more_trim_materials:trim/ender_pearl",
+                "experience_bottle": "more_trim_materials:trim/experience_bottle",
+                "fire_charge": "more_trim_materials:trim/fire_charge",
+                "glow_ink": "more_trim_materials:trim/glow_ink",
+                "glowstone": "more_trim_materials:trim/glowstone",
+                "gunpowder": "more_trim_materials:trim/gunpowder",
+                "heart_of_the_sea": "more_trim_materials:trim/heart_of_the_sea",
+                "honeycomb": "more_trim_materials:trim/honeycomb",
+                "leather": "more_trim_materials:trim/leather",
+                "nautilus": "more_trim_materials:trim/nautilus",
+                "nether_brick": "more_trim_materials:trim/nether_brick",
+                "nether_star": "more_trim_materials:trim/nether_star",
+                "netherite_scrap": "more_trim_materials:trim/netherite_scrap",
+                "phantom_membrane": "more_trim_materials:trim/phantom_membrane",
+                "prismarine": "more_trim_materials:trim/prismarine",
+                "prismarine_crystals": "more_trim_materials:trim/prismarine_crystals",
+                "purpur": "more_trim_materials:trim/purpur",
+                "rabbit_hide": "more_trim_materials:trim/rabbit_hide",
+                "slime": "more_trim_materials:trim/slime",
+                "turtle_scute": "more_trim_materials:trim/turtle_scute"
+            },
+            "textures": [
+                "minecraft:trims/items/helmet_trim",
+                "minecraft:trims/items/chestplate_trim",
+                "minecraft:trims/items/leggings_trim",
+                "minecraft:trims/items/boots_trim"
+            ]
+        }
+    ]
+}

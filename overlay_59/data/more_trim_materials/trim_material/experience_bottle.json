@@ -1,0 +1,8 @@
+{
+    "asset_name": "experience_bottle",
+    "description": {
+      "color": "#B8E45A",
+      "translate": "trim_material.more_trim_materials.experience_bottle"
+    },
+    "ingredient": "minecraft:experience_bottle"
+  }

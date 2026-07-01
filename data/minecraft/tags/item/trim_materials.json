@@ -1,0 +1,32 @@
+{
+    "values": [
+        "minecraft:armadillo_scute",
+        "minecraft:blaze_rod",
+        "minecraft:bone",
+        "minecraft:breeze_rod",
+        "minecraft:coal",
+        "minecraft:dragon_breath",
+        "minecraft:echo_shard",
+        "minecraft:end_crystal",
+        "minecraft:ender_pearl",
+        "minecraft:experience_bottle",
+        "minecraft:fire_charge",
+        "minecraft:glow_ink_sac",
+        "minecraft:glowstone_dust",
+        "minecraft:gunpowder",
+        "minecraft:heart_of_the_sea",
+        "minecraft:honeycomb",
+        "minecraft:leather",
+        "minecraft:nautilus_shell",
+        "minecraft:nether_brick",
+        "minecraft:nether_star",
+        "minecraft:netherite_scrap",
+        "minecraft:phantom_membrane",
+        "minecraft:popped_chorus_fruit",
+        "minecraft:prismarine_crystals",
+        "minecraft:prismarine_shard",
+        "minecraft:rabbit_hide",
+        "minecraft:slime_ball",
+        "minecraft:turtle_scute"
+    ]
+}
