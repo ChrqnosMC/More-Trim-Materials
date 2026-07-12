@@ -305,6 +305,21 @@
 			{
 				"formats": [
 					64,
+					107
+				],
+				"min_format": [
+					64,
+					0
+				],
+				"max_format": [
+					107,
+					1
+				],
+				"directory": "overlay_64_5"
+			},
+			{
+				"formats": [
+					64,
 					109
 				],
 				"min_format": [
@@ -315,7 +330,7 @@
 					109,
 					0
 				],
-				"directory": "overlay_64_5"
+				"directory": "overlay_64_6"
 			},
 			{
 				"formats": [

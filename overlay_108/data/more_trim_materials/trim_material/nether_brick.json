@@ -1,0 +1,7 @@
+{
+  "palette": "more_trim_materials:trim/nether_brick",
+  "description": {
+    "color": "#552E34",
+    "translate": "trim_material.more_trim_materials.nether_brick"
+  }
+}
