@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:chainmail_leggings",
+  "addition": "minecraft:breeze_rod",
+  "template": "minecraft:raiser_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:chainmail_leggings",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:breeze_rod",
+        "pattern": "minecraft:raiser",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 7
+    }
+  }
+}

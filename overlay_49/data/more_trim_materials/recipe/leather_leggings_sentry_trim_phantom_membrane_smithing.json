@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:leather_leggings",
+  "addition": "minecraft:phantom_membrane",
+  "template": "minecraft:sentry_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:leather_leggings",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:phantom_membrane",
+        "pattern": "minecraft:sentry",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 9
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:chainmail_leggings",
+  "addition": "minecraft:experience_bottle",
+  "template": "minecraft:wayfinder_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:chainmail_leggings",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:experience_bottle",
+        "pattern": "minecraft:wayfinder",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 17
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_chestplate",
+  "addition": "minecraft:prismarine_crystals",
+  "template": "minecraft:snout_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_chestplate",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:prismarine_crystals",
+        "pattern": "minecraft:snout",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 12
+    }
+  }
+}

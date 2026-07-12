@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_boots",
+  "addition": "minecraft:prismarine_crystals",
+  "template": "minecraft:coast_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_boots",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:prismarine_crystals",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 2
+    }
+  }
+}

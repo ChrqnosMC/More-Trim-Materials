@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_boots",
+  "addition": "minecraft:undefined",
+  "template": "minecraft:wayfinder_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_boots",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:prismarine",
+        "pattern": "minecraft:wayfinder",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 17
+    }
+  }
+}

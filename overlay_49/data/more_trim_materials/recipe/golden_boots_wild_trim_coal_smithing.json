@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_boots",
+  "addition": "minecraft:coal",
+  "template": "minecraft:wild_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_boots",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:coal",
+        "pattern": "minecraft:wild",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 18
+    }
+  }
+}

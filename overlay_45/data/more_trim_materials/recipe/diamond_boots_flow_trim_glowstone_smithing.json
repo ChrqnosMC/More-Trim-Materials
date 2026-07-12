@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:diamond_boots"
+  },
+  "addition": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "template": {
+    "item": "minecraft:flow_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:diamond_boots",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:glowstone",
+        "pattern": "minecraft:flow",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 5
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:leather_helmet",
+  "addition": "minecraft:coal",
+  "template": "minecraft:ward_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:leather_helmet",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:coal",
+        "pattern": "minecraft:ward",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 16
+    }
+  }
+}
