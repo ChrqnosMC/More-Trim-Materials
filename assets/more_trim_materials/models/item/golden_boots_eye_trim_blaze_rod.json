@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/golden_boots_eye_trim_blaze_rod"
+  }
+}

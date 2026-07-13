@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/chainmail_helmet_snout_trim_prismarine_crystals"
-  }
-}

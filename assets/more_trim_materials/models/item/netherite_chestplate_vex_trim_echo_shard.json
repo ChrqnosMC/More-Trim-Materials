@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/netherite_chestplate_vex_trim_echo_shard"
+  }
+}

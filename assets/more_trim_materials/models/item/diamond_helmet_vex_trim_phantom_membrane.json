@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/diamond_helmet_vex_trim_phantom_membrane"
+  }
+}

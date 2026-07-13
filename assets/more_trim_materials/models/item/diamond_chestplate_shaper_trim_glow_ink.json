@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/diamond_chestplate_shaper_trim_glow_ink"
+  }
+}

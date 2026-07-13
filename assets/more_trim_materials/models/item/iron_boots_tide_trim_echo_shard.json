@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/iron_boots_tide_trim_echo_shard"
+  }
+}

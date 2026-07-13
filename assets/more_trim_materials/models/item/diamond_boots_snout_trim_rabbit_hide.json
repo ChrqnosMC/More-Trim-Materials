@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/diamond_boots_snout_trim_rabbit_hide"
+  }
+}

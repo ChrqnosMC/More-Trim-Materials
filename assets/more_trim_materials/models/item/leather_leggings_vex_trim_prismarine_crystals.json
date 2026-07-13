@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/leather_leggings_vex_trim_prismarine_crystals"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/copper_helmet_wild_trim_heart_of_the_sea"
+  }
+}

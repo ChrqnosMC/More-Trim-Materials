@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/iron_chestplate_rib_trim_breeze_rod"
+  }
+}

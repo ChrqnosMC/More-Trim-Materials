@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/chainmail_helmet_dune_trim_phantom_membrane"
+  }
+}

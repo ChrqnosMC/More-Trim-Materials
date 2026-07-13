@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/leather_chestplate_wild_trim_glow_ink"
+  }
+}

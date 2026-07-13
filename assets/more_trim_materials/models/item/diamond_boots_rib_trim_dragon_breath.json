@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/diamond_boots_rib_trim_dragon_breath"
+  }
+}
