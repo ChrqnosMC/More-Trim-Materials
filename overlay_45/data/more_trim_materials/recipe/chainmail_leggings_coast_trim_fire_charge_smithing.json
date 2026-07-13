@@ -13,7 +13,7 @@
     "id": "minecraft:chainmail_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:fire_charge",
+        "material": "more_trim_materials:fire_charge",
         "pattern": "minecraft:coast",
         "show_in_tooltip": true
       },

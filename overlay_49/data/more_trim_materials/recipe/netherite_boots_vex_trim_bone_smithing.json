@@ -7,7 +7,7 @@
     "id": "minecraft:netherite_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:bone",
+        "material": "more_trim_materials:bone",
         "pattern": "minecraft:vex",
         "show_in_tooltip": true
       },

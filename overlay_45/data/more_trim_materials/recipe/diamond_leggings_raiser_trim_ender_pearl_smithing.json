@@ -13,7 +13,7 @@
     "id": "minecraft:diamond_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:ender_pearl",
+        "material": "more_trim_materials:ender_pearl",
         "pattern": "minecraft:raiser",
         "show_in_tooltip": true
       },

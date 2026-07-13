@@ -7,7 +7,7 @@
     "id": "minecraft:iron_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:nether_star",
+        "material": "more_trim_materials:nether_star",
         "pattern": "minecraft:raiser",
         "show_in_tooltip": true
       },

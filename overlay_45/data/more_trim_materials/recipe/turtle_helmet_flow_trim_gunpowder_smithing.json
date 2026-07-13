@@ -13,7 +13,7 @@
     "id": "minecraft:turtle_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:gunpowder",
+        "material": "more_trim_materials:gunpowder",
         "pattern": "minecraft:flow",
         "show_in_tooltip": true
       },

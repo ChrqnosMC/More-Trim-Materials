@@ -13,7 +13,7 @@
     "id": "minecraft:diamond_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:end_crystal",
+        "material": "more_trim_materials:end_crystal",
         "pattern": "minecraft:eye",
         "show_in_tooltip": true
       },

@@ -7,7 +7,7 @@
     "id": "minecraft:diamond_chestplate",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "more_trim_materials:purpur",
         "pattern": "minecraft:spire",
         "show_in_tooltip": true
       },

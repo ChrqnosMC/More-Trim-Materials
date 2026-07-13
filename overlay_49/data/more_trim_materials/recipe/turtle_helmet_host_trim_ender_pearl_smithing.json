@@ -7,7 +7,7 @@
     "id": "minecraft:turtle_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:ender_pearl",
+        "material": "more_trim_materials:ender_pearl",
         "pattern": "minecraft:host",
         "show_in_tooltip": true
       },

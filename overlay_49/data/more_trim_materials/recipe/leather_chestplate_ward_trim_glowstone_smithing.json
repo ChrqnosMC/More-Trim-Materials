@@ -7,7 +7,7 @@
     "id": "minecraft:leather_chestplate",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:glowstone",
+        "material": "more_trim_materials:glowstone",
         "pattern": "minecraft:ward",
         "show_in_tooltip": true
       },

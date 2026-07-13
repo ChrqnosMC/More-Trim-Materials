@@ -7,7 +7,7 @@
     "id": "minecraft:leather_chestplate",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:netherite_scrap",
+        "material": "more_trim_materials:netherite_scrap",
         "pattern": "minecraft:shaper",
         "show_in_tooltip": true
       },

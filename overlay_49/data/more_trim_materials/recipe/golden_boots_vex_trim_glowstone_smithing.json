@@ -7,7 +7,7 @@
     "id": "minecraft:golden_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:glowstone",
+        "material": "more_trim_materials:glowstone",
         "pattern": "minecraft:vex",
         "show_in_tooltip": true
       },

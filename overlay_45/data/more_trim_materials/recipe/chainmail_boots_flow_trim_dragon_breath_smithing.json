@@ -13,7 +13,7 @@
     "id": "minecraft:chainmail_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:dragon_breath",
+        "material": "more_trim_materials:dragon_breath",
         "pattern": "minecraft:flow",
         "show_in_tooltip": true
       },

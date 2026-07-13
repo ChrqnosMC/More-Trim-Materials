@@ -13,7 +13,7 @@
     "id": "minecraft:turtle_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "more_trim_materials:purpur",
         "pattern": "minecraft:eye",
         "show_in_tooltip": true
       },

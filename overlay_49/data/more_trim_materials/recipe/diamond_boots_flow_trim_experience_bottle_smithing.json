@@ -7,7 +7,7 @@
     "id": "minecraft:diamond_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:experience_bottle",
+        "material": "more_trim_materials:experience_bottle",
         "pattern": "minecraft:flow",
         "show_in_tooltip": true
       },

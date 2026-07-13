@@ -7,7 +7,7 @@
     "id": "minecraft:netherite_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:dragon_breath",
+        "material": "more_trim_materials:dragon_breath",
         "pattern": "minecraft:dune",
         "show_in_tooltip": true
       },

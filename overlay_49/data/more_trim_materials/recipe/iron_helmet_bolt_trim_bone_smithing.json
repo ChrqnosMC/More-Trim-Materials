@@ -7,7 +7,7 @@
     "id": "minecraft:iron_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:bone",
+        "material": "more_trim_materials:bone",
         "pattern": "minecraft:bolt",
         "show_in_tooltip": true
       },

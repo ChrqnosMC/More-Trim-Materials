@@ -7,7 +7,7 @@
     "id": "minecraft:netherite_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "more_trim_materials:purpur",
         "pattern": "minecraft:wayfinder",
         "show_in_tooltip": true
       },

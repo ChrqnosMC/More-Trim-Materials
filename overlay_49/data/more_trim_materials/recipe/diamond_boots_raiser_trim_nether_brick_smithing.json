@@ -7,7 +7,7 @@
     "id": "minecraft:diamond_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:nether_brick",
+        "material": "more_trim_materials:nether_brick",
         "pattern": "minecraft:raiser",
         "show_in_tooltip": true
       },

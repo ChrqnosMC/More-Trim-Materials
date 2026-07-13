@@ -7,7 +7,7 @@
     "id": "minecraft:diamond_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:prismarine",
+        "material": "more_trim_materials:prismarine",
         "pattern": "minecraft:tide",
         "show_in_tooltip": true
       },

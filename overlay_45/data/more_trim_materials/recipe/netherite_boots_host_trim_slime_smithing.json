@@ -13,7 +13,7 @@
     "id": "minecraft:netherite_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:slime",
+        "material": "more_trim_materials:slime",
         "pattern": "minecraft:host",
         "show_in_tooltip": true
       },

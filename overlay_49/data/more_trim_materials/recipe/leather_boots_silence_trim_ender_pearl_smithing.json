@@ -7,7 +7,7 @@
     "id": "minecraft:leather_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:ender_pearl",
+        "material": "more_trim_materials:ender_pearl",
         "pattern": "minecraft:silence",
         "show_in_tooltip": true
       },

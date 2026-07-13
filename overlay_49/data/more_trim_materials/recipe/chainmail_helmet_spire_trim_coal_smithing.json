@@ -7,7 +7,7 @@
     "id": "minecraft:chainmail_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:coal",
+        "material": "more_trim_materials:coal",
         "pattern": "minecraft:spire",
         "show_in_tooltip": true
       },

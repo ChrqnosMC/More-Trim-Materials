@@ -7,7 +7,7 @@
     "id": "minecraft:golden_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:armadillo_scute",
+        "material": "more_trim_materials:armadillo_scute",
         "pattern": "minecraft:sentry",
         "show_in_tooltip": true
       },

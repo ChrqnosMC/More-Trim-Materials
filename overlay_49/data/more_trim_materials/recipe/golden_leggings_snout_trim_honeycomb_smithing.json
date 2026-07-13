@@ -7,7 +7,7 @@
     "id": "minecraft:golden_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:honeycomb",
+        "material": "more_trim_materials:honeycomb",
         "pattern": "minecraft:snout",
         "show_in_tooltip": true
       },

@@ -13,7 +13,7 @@
     "id": "minecraft:golden_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:ender_pearl",
+        "material": "more_trim_materials:ender_pearl",
         "pattern": "minecraft:flow",
         "show_in_tooltip": true
       },

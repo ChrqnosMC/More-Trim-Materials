@@ -13,7 +13,7 @@
     "id": "minecraft:netherite_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:breeze_rod",
+        "material": "more_trim_materials:breeze_rod",
         "pattern": "minecraft:host",
         "show_in_tooltip": true
       },

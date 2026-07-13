@@ -13,7 +13,7 @@
     "id": "minecraft:turtle_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:phantom_membrane",
+        "material": "more_trim_materials:phantom_membrane",
         "pattern": "minecraft:silence",
         "show_in_tooltip": true
       },

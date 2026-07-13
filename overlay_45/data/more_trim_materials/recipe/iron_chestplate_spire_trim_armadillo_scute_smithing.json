@@ -13,7 +13,7 @@
     "id": "minecraft:iron_chestplate",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:armadillo_scute",
+        "material": "more_trim_materials:armadillo_scute",
         "pattern": "minecraft:spire",
         "show_in_tooltip": true
       },

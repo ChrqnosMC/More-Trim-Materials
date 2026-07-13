@@ -7,7 +7,7 @@
     "id": "minecraft:chainmail_chestplate",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:prismarine_crystals",
+        "material": "more_trim_materials:prismarine_crystals",
         "pattern": "minecraft:sentry",
         "show_in_tooltip": true
       },

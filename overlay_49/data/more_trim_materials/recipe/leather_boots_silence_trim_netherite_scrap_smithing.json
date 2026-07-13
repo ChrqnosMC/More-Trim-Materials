@@ -7,7 +7,7 @@
     "id": "minecraft:leather_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:netherite_scrap",
+        "material": "more_trim_materials:netherite_scrap",
         "pattern": "minecraft:silence",
         "show_in_tooltip": true
       },

@@ -7,7 +7,7 @@
     "id": "minecraft:diamond_chestplate",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:armadillo_scute",
+        "material": "more_trim_materials:armadillo_scute",
         "pattern": "minecraft:coast",
         "show_in_tooltip": true
       },

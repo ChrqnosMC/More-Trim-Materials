@@ -7,7 +7,7 @@
     "id": "minecraft:netherite_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:bone",
+        "material": "more_trim_materials:bone",
         "pattern": "minecraft:silence",
         "show_in_tooltip": true
       },

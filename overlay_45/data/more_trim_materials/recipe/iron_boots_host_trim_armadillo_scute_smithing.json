@@ -13,7 +13,7 @@
     "id": "minecraft:iron_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:armadillo_scute",
+        "material": "more_trim_materials:armadillo_scute",
         "pattern": "minecraft:host",
         "show_in_tooltip": true
       },

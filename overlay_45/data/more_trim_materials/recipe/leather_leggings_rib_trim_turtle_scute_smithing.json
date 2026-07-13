@@ -13,7 +13,7 @@
     "id": "minecraft:leather_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:turtle_scute",
+        "material": "more_trim_materials:turtle_scute",
         "pattern": "minecraft:rib",
         "show_in_tooltip": true
       },

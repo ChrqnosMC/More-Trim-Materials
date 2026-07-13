@@ -7,7 +7,7 @@
     "id": "minecraft:iron_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:blaze_rod",
+        "material": "more_trim_materials:blaze_rod",
         "pattern": "minecraft:eye",
         "show_in_tooltip": true
       },

@@ -7,7 +7,7 @@
     "id": "minecraft:iron_chestplate",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:rabbit_hide",
+        "material": "more_trim_materials:rabbit_hide",
         "pattern": "minecraft:eye",
         "show_in_tooltip": true
       },

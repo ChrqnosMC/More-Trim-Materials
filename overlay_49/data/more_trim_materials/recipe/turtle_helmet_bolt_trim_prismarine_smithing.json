@@ -7,7 +7,7 @@
     "id": "minecraft:turtle_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:prismarine",
+        "material": "more_trim_materials:prismarine",
         "pattern": "minecraft:bolt",
         "show_in_tooltip": true
       },

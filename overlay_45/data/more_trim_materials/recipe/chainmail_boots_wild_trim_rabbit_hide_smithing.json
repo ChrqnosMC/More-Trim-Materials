@@ -13,7 +13,7 @@
     "id": "minecraft:chainmail_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:rabbit_hide",
+        "material": "more_trim_materials:rabbit_hide",
         "pattern": "minecraft:wild",
         "show_in_tooltip": true
       },

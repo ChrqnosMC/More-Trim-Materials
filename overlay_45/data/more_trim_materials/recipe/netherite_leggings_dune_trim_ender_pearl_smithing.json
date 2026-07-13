@@ -13,7 +13,7 @@
     "id": "minecraft:netherite_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:ender_pearl",
+        "material": "more_trim_materials:ender_pearl",
         "pattern": "minecraft:dune",
         "show_in_tooltip": true
       },

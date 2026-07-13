@@ -7,7 +7,7 @@
     "id": "minecraft:diamond_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:prismarine",
+        "material": "more_trim_materials:prismarine",
         "pattern": "minecraft:rib",
         "show_in_tooltip": true
       },

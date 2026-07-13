@@ -7,7 +7,7 @@
     "id": "minecraft:netherite_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:nautilus",
+        "material": "more_trim_materials:nautilus",
         "pattern": "minecraft:raiser",
         "show_in_tooltip": true
       },

@@ -13,7 +13,7 @@
     "id": "minecraft:netherite_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:slime",
+        "material": "more_trim_materials:slime",
         "pattern": "minecraft:silence",
         "show_in_tooltip": true
       },

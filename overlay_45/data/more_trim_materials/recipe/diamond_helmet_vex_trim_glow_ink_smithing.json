@@ -13,7 +13,7 @@
     "id": "minecraft:diamond_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:glow_ink",
+        "material": "more_trim_materials:glow_ink",
         "pattern": "minecraft:vex",
         "show_in_tooltip": true
       },

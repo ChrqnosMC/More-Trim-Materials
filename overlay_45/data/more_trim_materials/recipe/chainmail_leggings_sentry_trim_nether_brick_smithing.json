@@ -13,7 +13,7 @@
     "id": "minecraft:chainmail_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:nether_brick",
+        "material": "more_trim_materials:nether_brick",
         "pattern": "minecraft:sentry",
         "show_in_tooltip": true
       },

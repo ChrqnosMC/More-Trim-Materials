@@ -7,7 +7,7 @@
     "id": "minecraft:netherite_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:gunpowder",
+        "material": "more_trim_materials:gunpowder",
         "pattern": "minecraft:tide",
         "show_in_tooltip": true
       },

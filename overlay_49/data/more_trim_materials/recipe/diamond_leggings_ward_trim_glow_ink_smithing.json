@@ -7,7 +7,7 @@
     "id": "minecraft:diamond_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:glow_ink",
+        "material": "more_trim_materials:glow_ink",
         "pattern": "minecraft:ward",
         "show_in_tooltip": true
       },

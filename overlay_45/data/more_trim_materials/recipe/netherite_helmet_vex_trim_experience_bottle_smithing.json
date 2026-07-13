@@ -13,7 +13,7 @@
     "id": "minecraft:netherite_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:experience_bottle",
+        "material": "more_trim_materials:experience_bottle",
         "pattern": "minecraft:vex",
         "show_in_tooltip": true
       },

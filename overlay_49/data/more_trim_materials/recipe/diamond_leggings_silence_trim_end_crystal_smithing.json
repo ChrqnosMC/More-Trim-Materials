@@ -7,7 +7,7 @@
     "id": "minecraft:diamond_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:end_crystal",
+        "material": "more_trim_materials:end_crystal",
         "pattern": "minecraft:silence",
         "show_in_tooltip": true
       },

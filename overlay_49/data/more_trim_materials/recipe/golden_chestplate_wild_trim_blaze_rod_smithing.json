@@ -7,7 +7,7 @@
     "id": "minecraft:golden_chestplate",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:blaze_rod",
+        "material": "more_trim_materials:blaze_rod",
         "pattern": "minecraft:wild",
         "show_in_tooltip": true
       },

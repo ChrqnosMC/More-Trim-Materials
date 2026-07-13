@@ -13,7 +13,7 @@
     "id": "minecraft:leather_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:heart_of_the_sea",
+        "material": "more_trim_materials:heart_of_the_sea",
         "pattern": "minecraft:ward",
         "show_in_tooltip": true
       },

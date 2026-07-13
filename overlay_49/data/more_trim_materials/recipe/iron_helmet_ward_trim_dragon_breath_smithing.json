@@ -7,7 +7,7 @@
     "id": "minecraft:iron_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:dragon_breath",
+        "material": "more_trim_materials:dragon_breath",
         "pattern": "minecraft:ward",
         "show_in_tooltip": true
       },

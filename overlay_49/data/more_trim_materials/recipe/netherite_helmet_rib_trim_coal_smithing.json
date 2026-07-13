@@ -7,7 +7,7 @@
     "id": "minecraft:netherite_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:coal",
+        "material": "more_trim_materials:coal",
         "pattern": "minecraft:rib",
         "show_in_tooltip": true
       },

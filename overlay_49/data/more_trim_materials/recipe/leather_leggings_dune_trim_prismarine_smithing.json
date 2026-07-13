@@ -7,7 +7,7 @@
     "id": "minecraft:leather_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:prismarine",
+        "material": "more_trim_materials:prismarine",
         "pattern": "minecraft:dune",
         "show_in_tooltip": true
       },

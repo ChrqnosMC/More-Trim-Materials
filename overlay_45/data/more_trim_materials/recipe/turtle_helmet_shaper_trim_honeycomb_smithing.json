@@ -13,7 +13,7 @@
     "id": "minecraft:turtle_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:honeycomb",
+        "material": "more_trim_materials:honeycomb",
         "pattern": "minecraft:shaper",
         "show_in_tooltip": true
       },

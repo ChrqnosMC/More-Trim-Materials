@@ -13,7 +13,7 @@
     "id": "minecraft:turtle_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:experience_bottle",
+        "material": "more_trim_materials:experience_bottle",
         "pattern": "minecraft:shaper",
         "show_in_tooltip": true
       },

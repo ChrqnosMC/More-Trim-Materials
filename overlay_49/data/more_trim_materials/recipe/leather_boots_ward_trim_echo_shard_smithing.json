@@ -7,7 +7,7 @@
     "id": "minecraft:leather_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:echo_shard",
+        "material": "more_trim_materials:echo_shard",
         "pattern": "minecraft:ward",
         "show_in_tooltip": true
       },

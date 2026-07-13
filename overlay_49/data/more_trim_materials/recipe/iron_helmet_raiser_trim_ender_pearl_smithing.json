@@ -7,7 +7,7 @@
     "id": "minecraft:iron_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:ender_pearl",
+        "material": "more_trim_materials:ender_pearl",
         "pattern": "minecraft:raiser",
         "show_in_tooltip": true
       },

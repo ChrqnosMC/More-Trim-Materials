@@ -7,7 +7,7 @@
     "id": "minecraft:leather_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:leather",
+        "material": "more_trim_materials:leather",
         "pattern": "minecraft:vex",
         "show_in_tooltip": true
       },

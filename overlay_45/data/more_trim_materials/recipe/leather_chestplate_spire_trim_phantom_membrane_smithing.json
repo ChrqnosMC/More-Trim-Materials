@@ -13,7 +13,7 @@
     "id": "minecraft:leather_chestplate",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:phantom_membrane",
+        "material": "more_trim_materials:phantom_membrane",
         "pattern": "minecraft:spire",
         "show_in_tooltip": true
       },

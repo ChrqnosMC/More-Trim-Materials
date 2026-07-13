@@ -7,7 +7,7 @@
     "id": "minecraft:chainmail_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:rabbit_hide",
+        "material": "more_trim_materials:rabbit_hide",
         "pattern": "minecraft:ward",
         "show_in_tooltip": true
       },

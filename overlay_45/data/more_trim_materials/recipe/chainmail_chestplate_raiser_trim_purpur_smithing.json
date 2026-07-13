@@ -13,7 +13,7 @@
     "id": "minecraft:chainmail_chestplate",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "more_trim_materials:purpur",
         "pattern": "minecraft:raiser",
         "show_in_tooltip": true
       },

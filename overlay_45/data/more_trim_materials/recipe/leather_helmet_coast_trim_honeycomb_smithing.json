@@ -13,7 +13,7 @@
     "id": "minecraft:leather_helmet",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:honeycomb",
+        "material": "more_trim_materials:honeycomb",
         "pattern": "minecraft:coast",
         "show_in_tooltip": true
       },

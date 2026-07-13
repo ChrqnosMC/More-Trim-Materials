@@ -7,7 +7,7 @@
     "id": "minecraft:chainmail_leggings",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:dragon_breath",
+        "material": "more_trim_materials:dragon_breath",
         "pattern": "minecraft:bolt",
         "show_in_tooltip": true
       },

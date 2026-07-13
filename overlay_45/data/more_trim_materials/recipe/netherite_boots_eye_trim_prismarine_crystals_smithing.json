@@ -13,7 +13,7 @@
     "id": "minecraft:netherite_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:prismarine_crystals",
+        "material": "more_trim_materials:prismarine_crystals",
         "pattern": "minecraft:eye",
         "show_in_tooltip": true
       },

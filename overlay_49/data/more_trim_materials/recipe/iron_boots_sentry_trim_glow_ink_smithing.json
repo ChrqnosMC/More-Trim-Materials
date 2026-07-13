@@ -7,7 +7,7 @@
     "id": "minecraft:iron_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:glow_ink",
+        "material": "more_trim_materials:glow_ink",
         "pattern": "minecraft:sentry",
         "show_in_tooltip": true
       },

@@ -7,7 +7,7 @@
     "id": "minecraft:netherite_boots",
     "components": {
       "minecraft:trim": {
-        "material": "minecraft:glowstone",
+        "material": "more_trim_materials:glowstone",
         "pattern": "minecraft:snout",
         "show_in_tooltip": true
       },
