@@ -50,21 +50,6 @@
 			{
 				"formats": [
 					34,
-					72
-				],
-				"min_format": [
-					34,
-					0
-				],
-				"max_format": [
-					72,
-					0
-				],
-				"directory": "overlay_34_3"
-			},
-			{
-				"formats": [
-					34,
 					88
 				],
 				"min_format": [
@@ -75,7 +60,7 @@
 					88,
 					0
 				],
-				"directory": "overlay_34_4"
+				"directory": "overlay_34_3"
 			},
 			{
 				"formats": [
@@ -110,6 +95,21 @@
 			{
 				"formats": [
 					43,
+					67
+				],
+				"min_format": [
+					43,
+					0
+				],
+				"max_format": [
+					67,
+					0
+				],
+				"directory": "overlay_43_2"
+			},
+			{
+				"formats": [
+					43,
 					90
 				],
 				"min_format": [
@@ -120,7 +120,7 @@
 					90,
 					0
 				],
-				"directory": "overlay_43_2"
+				"directory": "overlay_43_3"
 			},
 			{
 				"formats": [
@@ -346,6 +346,21 @@
 					0
 				],
 				"directory": "overlay_65"
+			},
+			{
+				"formats": [
+					68,
+					72
+				],
+				"min_format": [
+					68,
+					0
+				],
+				"max_format": [
+					72,
+					0
+				],
+				"directory": "overlay_68"
 			},
 			{
 				"formats": [
