@@ -4,7 +4,7 @@
     "item": "minecraft:leather_helmet"
   },
   "addition": {
-    "item": "minecraft:undefined"
+    "item": "minecraft:prismarine_shard"
   },
   "template": {
     "item": "minecraft:spire_armor_trim_smithing_template"

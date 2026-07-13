@@ -4,7 +4,7 @@
     "item": "minecraft:turtle_helmet"
   },
   "addition": {
-    "item": "minecraft:undefined"
+    "item": "minecraft:prismarine_shard"
   },
   "template": {
     "item": "minecraft:bolt_armor_trim_smithing_template"

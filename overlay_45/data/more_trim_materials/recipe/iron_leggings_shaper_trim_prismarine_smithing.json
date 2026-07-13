@@ -4,7 +4,7 @@
     "item": "minecraft:iron_leggings"
   },
   "addition": {
-    "item": "minecraft:undefined"
+    "item": "minecraft:prismarine_shard"
   },
   "template": {
     "item": "minecraft:shaper_armor_trim_smithing_template"

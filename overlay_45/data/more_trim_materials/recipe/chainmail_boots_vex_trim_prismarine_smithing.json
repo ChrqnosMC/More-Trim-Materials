@@ -4,7 +4,7 @@
     "item": "minecraft:chainmail_boots"
   },
   "addition": {
-    "item": "minecraft:undefined"
+    "item": "minecraft:prismarine_shard"
   },
   "template": {
     "item": "minecraft:vex_armor_trim_smithing_template"

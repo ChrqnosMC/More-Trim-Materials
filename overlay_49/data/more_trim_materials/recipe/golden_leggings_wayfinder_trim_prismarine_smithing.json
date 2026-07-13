@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing_transform",
   "base": "minecraft:golden_leggings",
-  "addition": "minecraft:undefined",
+  "addition": "minecraft:prismarine_shard",
   "template": "minecraft:wayfinder_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:golden_leggings",

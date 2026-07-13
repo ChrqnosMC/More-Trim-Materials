@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing_transform",
   "base": "minecraft:chainmail_chestplate",
-  "addition": "minecraft:undefined",
+  "addition": "minecraft:prismarine_shard",
   "template": "minecraft:silence_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:chainmail_chestplate",

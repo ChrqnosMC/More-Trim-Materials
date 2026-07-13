@@ -4,7 +4,7 @@
     "item": "minecraft:netherite_boots"
   },
   "addition": {
-    "item": "minecraft:undefined"
+    "item": "minecraft:prismarine_shard"
   },
   "template": {
     "item": "minecraft:host_armor_trim_smithing_template"

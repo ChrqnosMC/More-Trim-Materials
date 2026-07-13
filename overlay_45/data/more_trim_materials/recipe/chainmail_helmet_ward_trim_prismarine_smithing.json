@@ -4,7 +4,7 @@
     "item": "minecraft:chainmail_helmet"
   },
   "addition": {
-    "item": "minecraft:undefined"
+    "item": "minecraft:prismarine_shard"
   },
   "template": {
     "item": "minecraft:ward_armor_trim_smithing_template"
