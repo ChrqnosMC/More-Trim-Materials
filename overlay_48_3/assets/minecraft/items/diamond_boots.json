@@ -1,6 +1,7 @@
 {
   "model": {
     "type": "minecraft:select",
+    "component": "minecraft:trim",
     "cases": [
       {
         "model": {
@@ -7027,6 +7028,6 @@
       "type": "minecraft:model",
       "model": "minecraft:item/diamond_boots"
     },
-    "property": "minecraft:custom_model_data"
+    "property": "minecraft:component"
   }
 }
