@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/chainmail_chestplate_wild_trim_netherite"
+    "layer0": "minecraft:item/chainmail_chestplate_wild_trim",
+    "layer1": "minecraft:trims/items/chestplate_trim_wild_netherite"
   }
 }

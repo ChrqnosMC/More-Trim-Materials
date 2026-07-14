@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/golden_helmet_host_trim_breeze_rod"
+    "layer0": "minecraft:item/golden_helmet_host_trim",
+    "layer1": "more_item_materials:trims/items/helmet_trim_host_breeze_rod"
   }
 }

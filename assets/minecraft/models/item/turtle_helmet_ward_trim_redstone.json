@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/turtle_helmet_ward_trim_redstone"
+    "layer0": "minecraft:item/turtle_helmet_ward_trim",
+    "layer1": "minecraft:trims/items/helmet_trim_ward_redstone"
   }
 }

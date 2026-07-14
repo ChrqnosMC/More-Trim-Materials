@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:copper_chestplate"
+  },
+  "addition": {
+    "item": "minecraft:glow_ink_sac"
+  },
+  "template": {
+    "item": "minecraft:shaper_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:copper_chestplate"
+  }
+}

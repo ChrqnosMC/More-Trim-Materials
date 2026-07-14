@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/iron_helmet_dune_trim_glowstone"
+    "layer0": "minecraft:item/iron_helmet_dune_trim",
+    "layer1": "more_item_materials:trims/items/helmet_trim_dune_glowstone"
   }
 }

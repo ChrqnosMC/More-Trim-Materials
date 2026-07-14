@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/chainmail_leggings_rib_trim_quartz"
+    "layer0": "minecraft:item/chainmail_leggings_rib_trim",
+    "layer1": "minecraft:trims/items/leggings_trim_rib_quartz"
   }
 }

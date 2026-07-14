@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/golden_helmet_shaper_trim_emerald"
+    "layer0": "minecraft:item/golden_helmet_shaper_trim",
+    "layer1": "minecraft:trims/items/helmet_trim_shaper_emerald"
   }
 }

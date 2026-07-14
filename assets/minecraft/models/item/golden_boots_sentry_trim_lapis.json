@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/golden_boots_sentry_trim_lapis"
+    "layer0": "minecraft:item/golden_boots_sentry_trim",
+    "layer1": "minecraft:trims/items/boots_trim_sentry_lapis"
   }
 }

@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/leather_leggings_vex_trim_iron"
+    "layer0": "minecraft:item/leather_leggings_vex_trim",
+    "layer1": "minecraft:trims/items/leggings_trim_vex_iron"
   }
 }

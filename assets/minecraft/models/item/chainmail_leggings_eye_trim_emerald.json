@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/chainmail_leggings_eye_trim_emerald"
+    "layer0": "minecraft:item/chainmail_leggings_eye_trim",
+    "layer1": "minecraft:trims/items/leggings_trim_eye_emerald"
   }
 }

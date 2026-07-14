@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:leather_leggings"
+  },
+  "addition": {
+    "item": "minecraft:echo_shard"
+  },
+  "template": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:leather_leggings"
+  }
+}

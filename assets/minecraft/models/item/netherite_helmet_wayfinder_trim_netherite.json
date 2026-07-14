@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/netherite_helmet_wayfinder_trim_netherite"
+    "layer0": "minecraft:item/netherite_helmet_wayfinder_trim",
+    "layer1": "minecraft:trims/items/helmet_trim_wayfinder_netherite"
   }
 }

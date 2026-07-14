@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:diamond_boots"
+  },
+  "addition": {
+    "item": "minecraft:turtle_scute"
+  },
+  "template": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:diamond_boots"
+  }
+}

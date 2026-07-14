@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/leather_leggings_coast_trim_gold"
+    "layer0": "minecraft:item/leather_leggings_coast_trim",
+    "layer1": "minecraft:trims/items/leggings_trim_coast_gold"
   }
 }

@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/copper_helmet_ward_trim_diamond"
+    "layer0": "minecraft:item/copper_helmet_ward_trim",
+    "layer1": "minecraft:trims/items/helmet_trim_ward_diamond"
   }
 }

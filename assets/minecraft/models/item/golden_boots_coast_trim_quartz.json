@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/golden_boots_coast_trim_quartz"
+    "layer0": "minecraft:item/golden_boots_coast_trim",
+    "layer1": "minecraft:trims/items/boots_trim_coast_quartz"
   }
 }

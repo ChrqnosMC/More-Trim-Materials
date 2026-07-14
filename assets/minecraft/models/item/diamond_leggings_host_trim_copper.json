@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/diamond_leggings_host_trim_copper"
+    "layer0": "minecraft:item/diamond_leggings_host_trim",
+    "layer1": "minecraft:trims/items/leggings_trim_host_copper"
   }
 }

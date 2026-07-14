@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/leather_boots_snout_trim_netherite_scrap"
+    "layer0": "minecraft:item/leather_boots_snout_trim",
+    "layer1": "more_item_materials:trims/items/boots_trim_snout_netherite_scrap"
   }
 }

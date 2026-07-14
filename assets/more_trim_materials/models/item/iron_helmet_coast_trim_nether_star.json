@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/iron_helmet_coast_trim_nether_star"
+    "layer0": "minecraft:item/iron_helmet_coast_trim",
+    "layer1": "more_item_materials:trims/items/helmet_trim_coast_nether_star"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:leather_chestplate"
+  },
+  "addition": {
+    "item": "minecraft:ender_pearl"
+  },
+  "template": {
+    "item": "minecraft:flow_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:leather_chestplate"
+  }
+}

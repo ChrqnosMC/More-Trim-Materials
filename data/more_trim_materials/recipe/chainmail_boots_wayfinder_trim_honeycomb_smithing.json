@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:chainmail_boots"
+  },
+  "addition": {
+    "item": "minecraft:honeycomb"
+  },
+  "template": {
+    "item": "minecraft:wayfinder_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:chainmail_boots"
+  }
+}

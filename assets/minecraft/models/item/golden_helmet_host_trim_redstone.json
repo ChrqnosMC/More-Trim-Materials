@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/golden_helmet_host_trim_redstone"
+    "layer0": "minecraft:item/golden_helmet_host_trim",
+    "layer1": "minecraft:trims/items/helmet_trim_host_redstone"
   }
 }

@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/golden_helmet_shaper_trim_nether_star"
+    "layer0": "minecraft:item/golden_helmet_shaper_trim",
+    "layer1": "more_item_materials:trims/items/helmet_trim_shaper_nether_star"
   }
 }

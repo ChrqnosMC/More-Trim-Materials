@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/chainmail_chestplate_eye_trim_end_crystal"
+    "layer0": "minecraft:item/chainmail_chestplate_eye_trim",
+    "layer1": "more_item_materials:trims/items/chestplate_trim_eye_end_crystal"
   }
 }

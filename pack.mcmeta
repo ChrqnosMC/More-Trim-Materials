@@ -49,21 +49,6 @@
 			},
 			{
 				"formats": [
-					48,
-					90
-				],
-				"min_format": [
-					48,
-					0
-				],
-				"max_format": [
-					90,
-					0
-				],
-				"directory": "overlay_48_3"
-			},
-			{
-				"formats": [
 					49,
 					62
 				],
@@ -211,6 +196,21 @@
 					0
 				],
 				"directory": "overlay_68"
+			},
+			{
+				"formats": [
+					68,
+					88
+				],
+				"min_format": [
+					68,
+					0
+				],
+				"max_format": [
+					88,
+					0
+				],
+				"directory": "overlay_68_2"
 			},
 			{
 				"formats": [

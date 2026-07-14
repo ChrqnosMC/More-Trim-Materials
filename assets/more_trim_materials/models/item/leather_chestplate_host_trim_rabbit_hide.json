@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/leather_chestplate_host_trim_rabbit_hide"
+    "layer0": "minecraft:item/leather_chestplate_host_trim",
+    "layer1": "more_item_materials:trims/items/chestplate_trim_host_rabbit_hide"
   }
 }

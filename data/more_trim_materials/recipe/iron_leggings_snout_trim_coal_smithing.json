@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_leggings"
+  },
+  "addition": {
+    "item": "minecraft:coal"
+  },
+  "template": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:iron_leggings"
+  }
+}

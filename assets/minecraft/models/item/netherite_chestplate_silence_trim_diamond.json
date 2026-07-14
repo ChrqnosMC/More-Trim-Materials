@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/netherite_chestplate_silence_trim_diamond"
+    "layer0": "minecraft:item/netherite_chestplate_silence_trim",
+    "layer1": "minecraft:trims/items/chestplate_trim_silence_diamond"
   }
 }

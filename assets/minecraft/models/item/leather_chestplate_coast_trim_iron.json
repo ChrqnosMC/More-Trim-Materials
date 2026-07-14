@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/leather_chestplate_coast_trim_iron"
+    "layer0": "minecraft:item/leather_chestplate_coast_trim",
+    "layer1": "minecraft:trims/items/chestplate_trim_coast_iron"
   }
 }

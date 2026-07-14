@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/netherite_chestplate_tide_trim_emerald"
+    "layer0": "minecraft:item/netherite_chestplate_tide_trim",
+    "layer1": "minecraft:trims/items/chestplate_trim_tide_emerald"
   }
 }

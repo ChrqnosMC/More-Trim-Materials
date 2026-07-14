@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/copper_leggings_snout_trim_dragon_breath"
+    "layer0": "minecraft:item/copper_leggings_snout_trim",
+    "layer1": "more_item_materials:trims/items/leggings_trim_snout_dragon_breath"
   }
 }

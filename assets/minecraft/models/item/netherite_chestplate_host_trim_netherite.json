@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/netherite_chestplate_host_trim_netherite"
+    "layer0": "minecraft:item/netherite_chestplate_host_trim",
+    "layer1": "minecraft:trims/items/chestplate_trim_host_netherite"
   }
 }

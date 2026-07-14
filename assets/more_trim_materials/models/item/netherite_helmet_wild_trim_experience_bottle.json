@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/netherite_helmet_wild_trim_experience_bottle"
+    "layer0": "minecraft:item/netherite_helmet_wild_trim",
+    "layer1": "more_item_materials:trims/items/helmet_trim_wild_experience_bottle"
   }
 }

@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/chainmail_helmet_flow_trim_leather"
+    "layer0": "minecraft:item/chainmail_helmet_flow_trim",
+    "layer1": "more_item_materials:trims/items/helmet_trim_flow_leather"
   }
 }

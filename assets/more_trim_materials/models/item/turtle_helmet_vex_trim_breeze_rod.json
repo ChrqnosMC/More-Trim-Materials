@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/turtle_helmet_vex_trim_breeze_rod"
+    "layer0": "minecraft:item/turtle_helmet_vex_trim",
+    "layer1": "more_item_materials:trims/items/helmet_trim_vex_breeze_rod"
   }
 }

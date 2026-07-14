@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/chainmail_helmet_raiser_trim_gold"
+    "layer0": "minecraft:item/chainmail_helmet_raiser_trim",
+    "layer1": "minecraft:trims/items/helmet_trim_raiser_gold"
   }
 }

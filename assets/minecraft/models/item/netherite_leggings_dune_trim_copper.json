@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/netherite_leggings_dune_trim_copper"
+    "layer0": "minecraft:item/netherite_leggings_dune_trim",
+    "layer1": "minecraft:trims/items/leggings_trim_dune_copper"
   }
 }

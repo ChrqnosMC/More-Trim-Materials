@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "more_trim_materials:item/diamond_boots_silence_trim_purpur"
+    "layer0": "minecraft:item/diamond_boots_silence_trim",
+    "layer1": "more_item_materials:trims/items/boots_trim_silence_purpur"
   }
 }

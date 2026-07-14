@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:copper_leggings"
+  },
+  "addition": {
+    "item": "minecraft:prismarine_crystals"
+  },
+  "template": {
+    "item": "minecraft:flow_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:copper_leggings"
+  }
+}

@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/diamond_leggings_spire_trim_emerald"
+    "layer0": "minecraft:item/diamond_leggings_spire_trim",
+    "layer1": "minecraft:trims/items/leggings_trim_spire_emerald"
   }
 }

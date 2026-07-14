@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/leather_chestplate_spire_trim_copper"
+    "layer0": "minecraft:item/leather_chestplate_spire_trim",
+    "layer1": "minecraft:trims/items/chestplate_trim_spire_copper"
   }
 }

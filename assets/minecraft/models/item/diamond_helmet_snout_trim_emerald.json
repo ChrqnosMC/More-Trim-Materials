@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/diamond_helmet_snout_trim_emerald"
+    "layer0": "minecraft:item/diamond_helmet_snout_trim",
+    "layer1": "minecraft:trims/items/helmet_trim_snout_emerald"
   }
 }
