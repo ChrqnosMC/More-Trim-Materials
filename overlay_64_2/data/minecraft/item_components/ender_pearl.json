@@ -1,0 +1,6 @@
+{
+  "targets": "minecraft:ender_pearl",
+  "components": {
+    "minecraft:provides_trim_material": "more_trim_materials:ender_pearl"
+  }
+}

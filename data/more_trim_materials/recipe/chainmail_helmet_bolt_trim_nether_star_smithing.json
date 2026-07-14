@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:chainmail_helmet",
-  "addition": "minecraft:nether_star",
-  "template": "minecraft:bolt_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:chainmail_helmet"
-  }
-}

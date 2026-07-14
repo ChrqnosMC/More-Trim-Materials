@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:diamond_chestplate",
-  "addition": "minecraft:prismarine_shard",
-  "template": "minecraft:vex_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:diamond_chestplate"
-  }
-}

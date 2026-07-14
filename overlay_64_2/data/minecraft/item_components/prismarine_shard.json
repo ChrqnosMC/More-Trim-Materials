@@ -1,0 +1,6 @@
+{
+  "targets": "minecraft:prismarine_shard",
+  "components": {
+    "minecraft:provides_trim_material": "more_trim_materials:prismarine"
+  }
+}

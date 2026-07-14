@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:chainmail_helmet",
-  "addition": "minecraft:ender_pearl",
-  "template": "minecraft:snout_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:chainmail_helmet"
-  }
-}

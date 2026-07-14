@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:chainmail_boots",
-  "addition": "minecraft:coal",
-  "template": "minecraft:bolt_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:chainmail_boots"
-  }
-}

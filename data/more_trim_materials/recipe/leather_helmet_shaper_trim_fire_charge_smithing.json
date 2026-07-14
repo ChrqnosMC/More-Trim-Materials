@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:leather_helmet",
-  "addition": "minecraft:fire_charge",
-  "template": "minecraft:shaper_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:leather_helmet"
-  }
-}

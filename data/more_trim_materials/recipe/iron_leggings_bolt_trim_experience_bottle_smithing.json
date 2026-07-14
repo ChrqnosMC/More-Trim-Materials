@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:iron_leggings",
-  "addition": "minecraft:experience_bottle",
-  "template": "minecraft:bolt_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:iron_leggings"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:golden_boots",
-  "addition": "minecraft:breeze_rod",
-  "template": "minecraft:tide_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:golden_boots"
-  }
-}

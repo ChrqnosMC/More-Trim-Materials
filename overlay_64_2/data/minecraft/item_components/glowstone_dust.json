@@ -1,0 +1,6 @@
+{
+  "targets": "minecraft:glowstone_dust",
+  "components": {
+    "minecraft:provides_trim_material": "more_trim_materials:glowstone"
+  }
+}

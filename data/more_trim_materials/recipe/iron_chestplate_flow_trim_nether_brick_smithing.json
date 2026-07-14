@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:iron_chestplate",
-  "addition": "minecraft:nether_brick",
-  "template": "minecraft:flow_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:iron_chestplate"
-  }
-}

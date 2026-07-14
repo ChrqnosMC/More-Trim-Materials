@@ -1,0 +1,6 @@
+{
+  "targets": "minecraft:nautilus_shell",
+  "components": {
+    "minecraft:provides_trim_material": "more_trim_materials:nautilus"
+  }
+}

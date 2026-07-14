@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:turtle_helmet",
-  "addition": "minecraft:armadillo_scute",
-  "template": "minecraft:host_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:turtle_helmet"
-  }
-}

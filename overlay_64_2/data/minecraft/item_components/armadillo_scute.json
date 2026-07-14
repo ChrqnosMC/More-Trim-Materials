@@ -1,0 +1,6 @@
+{
+  "targets": "minecraft:armadillo_scute",
+  "components": {
+    "minecraft:provides_trim_material": "more_trim_materials:armadillo_scute"
+  }
+}

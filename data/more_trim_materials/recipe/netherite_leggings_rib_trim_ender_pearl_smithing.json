@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:netherite_leggings",
-  "addition": "minecraft:ender_pearl",
-  "template": "minecraft:rib_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:netherite_leggings"
-  }
-}

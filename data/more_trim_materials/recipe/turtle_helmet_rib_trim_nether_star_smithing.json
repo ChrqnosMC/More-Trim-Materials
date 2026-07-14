@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:turtle_helmet",
-  "addition": "minecraft:nether_star",
-  "template": "minecraft:rib_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:turtle_helmet"
-  }
-}

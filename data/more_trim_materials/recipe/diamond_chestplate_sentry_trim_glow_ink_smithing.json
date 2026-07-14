@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:diamond_chestplate",
-  "addition": "minecraft:glow_ink_sac",
-  "template": "minecraft:sentry_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:diamond_chestplate"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:leather_chestplate",
-  "addition": "minecraft:glowstone_dust",
-  "template": "minecraft:flow_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:leather_chestplate"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:leather_chestplate",
-  "addition": "minecraft:slime_ball",
-  "template": "minecraft:sentry_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:leather_chestplate"
-  }
-}

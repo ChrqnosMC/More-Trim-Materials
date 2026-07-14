@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:golden_chestplate",
-  "addition": "minecraft:breeze_rod",
-  "template": "minecraft:raiser_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:golden_chestplate"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:netherite_chestplate",
-  "addition": "minecraft:slime_ball",
-  "template": "minecraft:raiser_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:netherite_chestplate"
-  }
-}

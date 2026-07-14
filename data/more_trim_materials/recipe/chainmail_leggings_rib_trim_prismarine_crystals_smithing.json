@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:chainmail_leggings",
-  "addition": "minecraft:prismarine_crystals",
-  "template": "minecraft:rib_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:chainmail_leggings"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:chainmail_boots",
-  "addition": "minecraft:armadillo_scute",
-  "template": "minecraft:vex_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:chainmail_boots"
-  }
-}

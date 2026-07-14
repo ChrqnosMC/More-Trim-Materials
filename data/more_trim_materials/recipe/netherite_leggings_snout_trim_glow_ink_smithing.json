@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:netherite_leggings",
-  "addition": "minecraft:glow_ink_sac",
-  "template": "minecraft:snout_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:netherite_leggings"
-  }
-}

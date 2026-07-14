@@ -1,0 +1,6 @@
+{
+  "targets": "minecraft:nether_brick",
+  "components": {
+    "minecraft:provides_trim_material": "more_trim_materials:nether_brick"
+  }
+}

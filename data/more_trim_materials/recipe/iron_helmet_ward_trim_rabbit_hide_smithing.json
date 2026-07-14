@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:iron_helmet",
-  "addition": "minecraft:rabbit_hide",
-  "template": "minecraft:ward_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:iron_helmet"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:iron_boots",
-  "addition": "minecraft:blaze_rod",
-  "template": "minecraft:raiser_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:iron_boots"
-  }
-}

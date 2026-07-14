@@ -1,0 +1,6 @@
+{
+  "targets": "minecraft:dragon_breath",
+  "components": {
+    "minecraft:provides_trim_material": "more_trim_materials:dragon_breath"
+  }
+}

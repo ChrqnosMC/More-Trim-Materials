@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:golden_chestplate",
-  "addition": "minecraft:glow_ink_sac",
-  "template": "minecraft:host_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:golden_chestplate"
-  }
-}

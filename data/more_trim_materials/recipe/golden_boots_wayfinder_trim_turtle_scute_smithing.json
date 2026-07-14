@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:golden_boots",
-  "addition": "minecraft:turtle_scute",
-  "template": "minecraft:wayfinder_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:golden_boots"
-  }
-}

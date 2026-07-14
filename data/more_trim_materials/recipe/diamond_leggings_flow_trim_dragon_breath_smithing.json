@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:diamond_leggings",
-  "addition": "minecraft:dragon_breath",
-  "template": "minecraft:flow_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:diamond_leggings"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:iron_chestplate",
-  "addition": "minecraft:end_crystal",
-  "template": "minecraft:raiser_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:iron_chestplate"
-  }
-}

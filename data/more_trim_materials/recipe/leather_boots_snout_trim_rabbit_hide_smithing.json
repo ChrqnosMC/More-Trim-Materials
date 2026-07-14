@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "base": "minecraft:leather_boots",
-  "addition": "minecraft:rabbit_hide",
-  "template": "minecraft:snout_armor_trim_smithing_template",
-  "result": {
-    "id": "minecraft:leather_boots"
-  }
-}
