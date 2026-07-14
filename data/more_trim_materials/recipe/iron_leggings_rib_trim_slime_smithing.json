@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:iron_leggings"
-  },
-  "addition": {
-    "item": "minecraft:slime_ball"
-  },
-  "template": {
-    "item": "minecraft:rib_armor_trim_smithing_template"
-  },
+  "base": "minecraft:iron_leggings",
+  "addition": "minecraft:slime_ball",
+  "template": "minecraft:rib_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:iron_leggings"
   }

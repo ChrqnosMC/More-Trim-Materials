@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:iron_helmet"
-  },
-  "addition": {
-    "item": "minecraft:bone"
-  },
-  "template": {
-    "item": "minecraft:silence_armor_trim_smithing_template"
-  },
+  "base": "minecraft:iron_helmet",
+  "addition": "minecraft:bone",
+  "template": "minecraft:silence_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:iron_helmet"
   }

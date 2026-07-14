@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:iron_leggings"
-  },
-  "addition": {
-    "item": "minecraft:heart_of_the_sea"
-  },
-  "template": {
-    "item": "minecraft:dune_armor_trim_smithing_template"
-  },
+  "base": "minecraft:iron_leggings",
+  "addition": "minecraft:heart_of_the_sea",
+  "template": "minecraft:dune_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:iron_leggings"
   }

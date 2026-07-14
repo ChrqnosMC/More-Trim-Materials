@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:iron_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:dragon_breath"
-  },
-  "template": {
-    "item": "minecraft:flow_armor_trim_smithing_template"
-  },
+  "base": "minecraft:iron_chestplate",
+  "addition": "minecraft:dragon_breath",
+  "template": "minecraft:flow_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:iron_chestplate"
   }

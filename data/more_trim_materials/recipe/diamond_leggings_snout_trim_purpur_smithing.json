@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:diamond_leggings"
-  },
-  "addition": {
-    "item": "minecraft:popped_chorus_fruit"
-  },
-  "template": {
-    "item": "minecraft:snout_armor_trim_smithing_template"
-  },
+  "base": "minecraft:diamond_leggings",
+  "addition": "minecraft:popped_chorus_fruit",
+  "template": "minecraft:snout_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:diamond_leggings"
   }

@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:iron_helmet"
-  },
-  "addition": {
-    "item": "minecraft:coal"
-  },
-  "template": {
-    "item": "minecraft:dune_armor_trim_smithing_template"
-  },
+  "base": "minecraft:iron_helmet",
+  "addition": "minecraft:coal",
+  "template": "minecraft:dune_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:iron_helmet"
   }

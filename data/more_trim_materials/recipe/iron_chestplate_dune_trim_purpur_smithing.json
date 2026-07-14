@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:iron_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:popped_chorus_fruit"
-  },
-  "template": {
-    "item": "minecraft:dune_armor_trim_smithing_template"
-  },
+  "base": "minecraft:iron_chestplate",
+  "addition": "minecraft:popped_chorus_fruit",
+  "template": "minecraft:dune_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:iron_chestplate"
   }

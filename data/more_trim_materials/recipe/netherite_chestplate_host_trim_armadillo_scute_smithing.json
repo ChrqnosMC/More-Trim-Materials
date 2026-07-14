@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:netherite_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:armadillo_scute"
-  },
-  "template": {
-    "item": "minecraft:host_armor_trim_smithing_template"
-  },
+  "base": "minecraft:netherite_chestplate",
+  "addition": "minecraft:armadillo_scute",
+  "template": "minecraft:host_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:netherite_chestplate"
   }

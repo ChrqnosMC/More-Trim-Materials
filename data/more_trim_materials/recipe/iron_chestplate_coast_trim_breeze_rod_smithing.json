@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:iron_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:breeze_rod"
-  },
-  "template": {
-    "item": "minecraft:coast_armor_trim_smithing_template"
-  },
+  "base": "minecraft:iron_chestplate",
+  "addition": "minecraft:breeze_rod",
+  "template": "minecraft:coast_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:iron_chestplate"
   }

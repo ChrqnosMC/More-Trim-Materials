@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:iron_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:leather"
-  },
-  "template": {
-    "item": "minecraft:spire_armor_trim_smithing_template"
-  },
+  "base": "minecraft:iron_chestplate",
+  "addition": "minecraft:leather",
+  "template": "minecraft:spire_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:iron_chestplate"
   }

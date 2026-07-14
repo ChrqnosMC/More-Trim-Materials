@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:golden_helmet"
-  },
-  "addition": {
-    "item": "minecraft:turtle_scute"
-  },
-  "template": {
-    "item": "minecraft:ward_armor_trim_smithing_template"
-  },
+  "base": "minecraft:golden_helmet",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:ward_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:golden_helmet"
   }

@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:turtle_helmet"
-  },
-  "addition": {
-    "item": "minecraft:ender_pearl"
-  },
-  "template": {
-    "item": "minecraft:eye_armor_trim_smithing_template"
-  },
+  "base": "minecraft:turtle_helmet",
+  "addition": "minecraft:ender_pearl",
+  "template": "minecraft:eye_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:turtle_helmet"
   }

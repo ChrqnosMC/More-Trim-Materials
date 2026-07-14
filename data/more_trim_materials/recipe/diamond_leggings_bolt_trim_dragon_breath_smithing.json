@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:diamond_leggings"
-  },
-  "addition": {
-    "item": "minecraft:dragon_breath"
-  },
-  "template": {
-    "item": "minecraft:bolt_armor_trim_smithing_template"
-  },
+  "base": "minecraft:diamond_leggings",
+  "addition": "minecraft:dragon_breath",
+  "template": "minecraft:bolt_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:diamond_leggings"
   }

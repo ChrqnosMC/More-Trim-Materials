@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:golden_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:coal"
-  },
-  "template": {
-    "item": "minecraft:raiser_armor_trim_smithing_template"
-  },
+  "base": "minecraft:golden_chestplate",
+  "addition": "minecraft:coal",
+  "template": "minecraft:raiser_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:golden_chestplate"
   }

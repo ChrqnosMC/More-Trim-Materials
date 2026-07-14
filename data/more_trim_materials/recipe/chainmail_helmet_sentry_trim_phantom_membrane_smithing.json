@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:chainmail_helmet"
-  },
-  "addition": {
-    "item": "minecraft:phantom_membrane"
-  },
-  "template": {
-    "item": "minecraft:sentry_armor_trim_smithing_template"
-  },
+  "base": "minecraft:chainmail_helmet",
+  "addition": "minecraft:phantom_membrane",
+  "template": "minecraft:sentry_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:chainmail_helmet"
   }

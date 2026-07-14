@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:iron_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:turtle_scute"
-  },
-  "template": {
-    "item": "minecraft:vex_armor_trim_smithing_template"
-  },
+  "base": "minecraft:iron_chestplate",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:vex_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:iron_chestplate"
   }

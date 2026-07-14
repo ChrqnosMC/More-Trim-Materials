@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:chainmail_leggings"
-  },
-  "addition": {
-    "item": "minecraft:dragon_breath"
-  },
-  "template": {
-    "item": "minecraft:rib_armor_trim_smithing_template"
-  },
+  "base": "minecraft:chainmail_leggings",
+  "addition": "minecraft:dragon_breath",
+  "template": "minecraft:rib_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:chainmail_leggings"
   }

@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:chainmail_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:experience_bottle"
-  },
-  "template": {
-    "item": "minecraft:raiser_armor_trim_smithing_template"
-  },
+  "base": "minecraft:chainmail_chestplate",
+  "addition": "minecraft:experience_bottle",
+  "template": "minecraft:raiser_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:chainmail_chestplate"
   }

@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:iron_leggings"
-  },
-  "addition": {
-    "item": "minecraft:rabbit_hide"
-  },
-  "template": {
-    "item": "minecraft:eye_armor_trim_smithing_template"
-  },
+  "base": "minecraft:iron_leggings",
+  "addition": "minecraft:rabbit_hide",
+  "template": "minecraft:eye_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:iron_leggings"
   }

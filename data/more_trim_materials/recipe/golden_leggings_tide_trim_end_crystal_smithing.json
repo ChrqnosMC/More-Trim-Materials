@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:golden_leggings"
-  },
-  "addition": {
-    "item": "minecraft:end_crystal"
-  },
-  "template": {
-    "item": "minecraft:tide_armor_trim_smithing_template"
-  },
+  "base": "minecraft:golden_leggings",
+  "addition": "minecraft:end_crystal",
+  "template": "minecraft:tide_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:golden_leggings"
   }

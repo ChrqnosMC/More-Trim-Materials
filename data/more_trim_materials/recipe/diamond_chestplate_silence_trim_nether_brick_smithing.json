@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:diamond_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:nether_brick"
-  },
-  "template": {
-    "item": "minecraft:silence_armor_trim_smithing_template"
-  },
+  "base": "minecraft:diamond_chestplate",
+  "addition": "minecraft:nether_brick",
+  "template": "minecraft:silence_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:diamond_chestplate"
   }

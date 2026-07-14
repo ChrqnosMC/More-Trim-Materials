@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:leather_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:phantom_membrane"
-  },
-  "template": {
-    "item": "minecraft:wild_armor_trim_smithing_template"
-  },
+  "base": "minecraft:leather_chestplate",
+  "addition": "minecraft:phantom_membrane",
+  "template": "minecraft:wild_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:leather_chestplate"
   }

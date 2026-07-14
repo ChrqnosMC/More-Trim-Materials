@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:leather_helmet"
-  },
-  "addition": {
-    "item": "minecraft:ender_pearl"
-  },
-  "template": {
-    "item": "minecraft:tide_armor_trim_smithing_template"
-  },
+  "base": "minecraft:leather_helmet",
+  "addition": "minecraft:ender_pearl",
+  "template": "minecraft:tide_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:leather_helmet"
   }

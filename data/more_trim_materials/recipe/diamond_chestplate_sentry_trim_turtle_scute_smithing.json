@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:diamond_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:turtle_scute"
-  },
-  "template": {
-    "item": "minecraft:sentry_armor_trim_smithing_template"
-  },
+  "base": "minecraft:diamond_chestplate",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:sentry_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:diamond_chestplate"
   }

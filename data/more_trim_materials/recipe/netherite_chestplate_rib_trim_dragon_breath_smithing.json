@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:netherite_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:dragon_breath"
-  },
-  "template": {
-    "item": "minecraft:rib_armor_trim_smithing_template"
-  },
+  "base": "minecraft:netherite_chestplate",
+  "addition": "minecraft:dragon_breath",
+  "template": "minecraft:rib_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:netherite_chestplate"
   }

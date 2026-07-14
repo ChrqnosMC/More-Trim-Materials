@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:golden_boots"
-  },
-  "addition": {
-    "item": "minecraft:nautilus_shell"
-  },
-  "template": {
-    "item": "minecraft:spire_armor_trim_smithing_template"
-  },
+  "base": "minecraft:golden_boots",
+  "addition": "minecraft:nautilus_shell",
+  "template": "minecraft:spire_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:golden_boots"
   }

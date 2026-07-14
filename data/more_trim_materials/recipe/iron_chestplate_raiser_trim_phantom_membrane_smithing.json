@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:iron_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:phantom_membrane"
-  },
-  "template": {
-    "item": "minecraft:raiser_armor_trim_smithing_template"
-  },
+  "base": "minecraft:iron_chestplate",
+  "addition": "minecraft:phantom_membrane",
+  "template": "minecraft:raiser_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:iron_chestplate"
   }

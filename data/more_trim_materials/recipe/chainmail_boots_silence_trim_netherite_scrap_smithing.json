@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:chainmail_boots"
-  },
-  "addition": {
-    "item": "minecraft:netherite_scrap"
-  },
-  "template": {
-    "item": "minecraft:silence_armor_trim_smithing_template"
-  },
+  "base": "minecraft:chainmail_boots",
+  "addition": "minecraft:netherite_scrap",
+  "template": "minecraft:silence_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:chainmail_boots"
   }

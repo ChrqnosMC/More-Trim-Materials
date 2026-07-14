@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:leather_helmet"
-  },
-  "addition": {
-    "item": "minecraft:gunpowder"
-  },
-  "template": {
-    "item": "minecraft:raiser_armor_trim_smithing_template"
-  },
+  "base": "minecraft:leather_helmet",
+  "addition": "minecraft:gunpowder",
+  "template": "minecraft:raiser_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:leather_helmet"
   }

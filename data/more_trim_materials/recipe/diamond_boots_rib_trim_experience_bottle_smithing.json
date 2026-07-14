@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:diamond_boots"
-  },
-  "addition": {
-    "item": "minecraft:experience_bottle"
-  },
-  "template": {
-    "item": "minecraft:rib_armor_trim_smithing_template"
-  },
+  "base": "minecraft:diamond_boots",
+  "addition": "minecraft:experience_bottle",
+  "template": "minecraft:rib_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:diamond_boots"
   }

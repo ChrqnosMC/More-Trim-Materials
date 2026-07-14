@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:diamond_leggings"
-  },
-  "addition": {
-    "item": "minecraft:turtle_scute"
-  },
-  "template": {
-    "item": "minecraft:dune_armor_trim_smithing_template"
-  },
+  "base": "minecraft:diamond_leggings",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:dune_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:diamond_leggings"
   }

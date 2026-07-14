@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:diamond_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:prismarine_crystals"
-  },
-  "template": {
-    "item": "minecraft:raiser_armor_trim_smithing_template"
-  },
+  "base": "minecraft:diamond_chestplate",
+  "addition": "minecraft:prismarine_crystals",
+  "template": "minecraft:raiser_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:diamond_chestplate"
   }

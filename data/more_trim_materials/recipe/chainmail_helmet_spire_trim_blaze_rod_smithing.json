@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:chainmail_helmet"
-  },
-  "addition": {
-    "item": "minecraft:blaze_rod"
-  },
-  "template": {
-    "item": "minecraft:spire_armor_trim_smithing_template"
-  },
+  "base": "minecraft:chainmail_helmet",
+  "addition": "minecraft:blaze_rod",
+  "template": "minecraft:spire_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:chainmail_helmet"
   }

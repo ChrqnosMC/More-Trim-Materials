@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:diamond_helmet"
-  },
-  "addition": {
-    "item": "minecraft:turtle_scute"
-  },
-  "template": {
-    "item": "minecraft:flow_armor_trim_smithing_template"
-  },
+  "base": "minecraft:diamond_helmet",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:flow_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:diamond_helmet"
   }

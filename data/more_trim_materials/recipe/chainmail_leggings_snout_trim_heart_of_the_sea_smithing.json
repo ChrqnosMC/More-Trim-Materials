@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:chainmail_leggings"
-  },
-  "addition": {
-    "item": "minecraft:heart_of_the_sea"
-  },
-  "template": {
-    "item": "minecraft:snout_armor_trim_smithing_template"
-  },
+  "base": "minecraft:chainmail_leggings",
+  "addition": "minecraft:heart_of_the_sea",
+  "template": "minecraft:snout_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:chainmail_leggings"
   }

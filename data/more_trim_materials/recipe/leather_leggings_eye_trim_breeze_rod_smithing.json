@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:leather_leggings"
-  },
-  "addition": {
-    "item": "minecraft:breeze_rod"
-  },
-  "template": {
-    "item": "minecraft:eye_armor_trim_smithing_template"
-  },
+  "base": "minecraft:leather_leggings",
+  "addition": "minecraft:breeze_rod",
+  "template": "minecraft:eye_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:leather_leggings"
   }

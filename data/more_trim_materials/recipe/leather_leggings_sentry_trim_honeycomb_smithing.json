@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:leather_leggings"
-  },
-  "addition": {
-    "item": "minecraft:honeycomb"
-  },
-  "template": {
-    "item": "minecraft:sentry_armor_trim_smithing_template"
-  },
+  "base": "minecraft:leather_leggings",
+  "addition": "minecraft:honeycomb",
+  "template": "minecraft:sentry_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:leather_leggings"
   }

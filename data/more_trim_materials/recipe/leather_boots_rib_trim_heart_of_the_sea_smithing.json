@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:leather_boots"
-  },
-  "addition": {
-    "item": "minecraft:heart_of_the_sea"
-  },
-  "template": {
-    "item": "minecraft:rib_armor_trim_smithing_template"
-  },
+  "base": "minecraft:leather_boots",
+  "addition": "minecraft:heart_of_the_sea",
+  "template": "minecraft:rib_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:leather_boots"
   }

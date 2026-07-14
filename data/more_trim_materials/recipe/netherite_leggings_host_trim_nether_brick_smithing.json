@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:netherite_leggings"
-  },
-  "addition": {
-    "item": "minecraft:nether_brick"
-  },
-  "template": {
-    "item": "minecraft:host_armor_trim_smithing_template"
-  },
+  "base": "minecraft:netherite_leggings",
+  "addition": "minecraft:nether_brick",
+  "template": "minecraft:host_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:netherite_leggings"
   }

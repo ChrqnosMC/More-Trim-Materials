@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:chainmail_leggings"
-  },
-  "addition": {
-    "item": "minecraft:glow_ink_sac"
-  },
-  "template": {
-    "item": "minecraft:sentry_armor_trim_smithing_template"
-  },
+  "base": "minecraft:chainmail_leggings",
+  "addition": "minecraft:glow_ink_sac",
+  "template": "minecraft:sentry_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:chainmail_leggings"
   }

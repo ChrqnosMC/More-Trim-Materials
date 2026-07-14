@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:diamond_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:popped_chorus_fruit"
-  },
-  "template": {
-    "item": "minecraft:spire_armor_trim_smithing_template"
-  },
+  "base": "minecraft:diamond_chestplate",
+  "addition": "minecraft:popped_chorus_fruit",
+  "template": "minecraft:spire_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:diamond_chestplate"
   }

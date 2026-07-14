@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:chainmail_helmet"
-  },
-  "addition": {
-    "item": "minecraft:turtle_scute"
-  },
-  "template": {
-    "item": "minecraft:host_armor_trim_smithing_template"
-  },
+  "base": "minecraft:chainmail_helmet",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:host_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:chainmail_helmet"
   }

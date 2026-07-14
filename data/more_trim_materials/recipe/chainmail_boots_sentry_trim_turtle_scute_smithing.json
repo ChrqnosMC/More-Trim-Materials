@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:chainmail_boots"
-  },
-  "addition": {
-    "item": "minecraft:turtle_scute"
-  },
-  "template": {
-    "item": "minecraft:sentry_armor_trim_smithing_template"
-  },
+  "base": "minecraft:chainmail_boots",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:sentry_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:chainmail_boots"
   }

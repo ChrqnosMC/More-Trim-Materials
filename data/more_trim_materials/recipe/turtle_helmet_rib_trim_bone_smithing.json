@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:turtle_helmet"
-  },
-  "addition": {
-    "item": "minecraft:bone"
-  },
-  "template": {
-    "item": "minecraft:rib_armor_trim_smithing_template"
-  },
+  "base": "minecraft:turtle_helmet",
+  "addition": "minecraft:bone",
+  "template": "minecraft:rib_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:turtle_helmet"
   }

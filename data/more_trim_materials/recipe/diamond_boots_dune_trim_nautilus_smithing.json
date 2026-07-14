@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:diamond_boots"
-  },
-  "addition": {
-    "item": "minecraft:nautilus_shell"
-  },
-  "template": {
-    "item": "minecraft:dune_armor_trim_smithing_template"
-  },
+  "base": "minecraft:diamond_boots",
+  "addition": "minecraft:nautilus_shell",
+  "template": "minecraft:dune_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:diamond_boots"
   }

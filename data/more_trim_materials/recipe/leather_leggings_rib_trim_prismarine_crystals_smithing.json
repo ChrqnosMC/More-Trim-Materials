@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:leather_leggings"
-  },
-  "addition": {
-    "item": "minecraft:prismarine_crystals"
-  },
-  "template": {
-    "item": "minecraft:rib_armor_trim_smithing_template"
-  },
+  "base": "minecraft:leather_leggings",
+  "addition": "minecraft:prismarine_crystals",
+  "template": "minecraft:rib_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:leather_leggings"
   }

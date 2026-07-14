@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:leather_boots"
-  },
-  "addition": {
-    "item": "minecraft:slime_ball"
-  },
-  "template": {
-    "item": "minecraft:coast_armor_trim_smithing_template"
-  },
+  "base": "minecraft:leather_boots",
+  "addition": "minecraft:slime_ball",
+  "template": "minecraft:coast_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:leather_boots"
   }

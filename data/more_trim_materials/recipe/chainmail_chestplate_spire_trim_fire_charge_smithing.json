@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:chainmail_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:fire_charge"
-  },
-  "template": {
-    "item": "minecraft:spire_armor_trim_smithing_template"
-  },
+  "base": "minecraft:chainmail_chestplate",
+  "addition": "minecraft:fire_charge",
+  "template": "minecraft:spire_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:chainmail_chestplate"
   }

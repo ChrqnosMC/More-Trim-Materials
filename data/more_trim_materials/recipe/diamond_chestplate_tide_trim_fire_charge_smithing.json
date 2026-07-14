@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "base": {
-    "item": "minecraft:diamond_chestplate"
-  },
-  "addition": {
-    "item": "minecraft:fire_charge"
-  },
-  "template": {
-    "item": "minecraft:tide_armor_trim_smithing_template"
-  },
+  "base": "minecraft:diamond_chestplate",
+  "addition": "minecraft:fire_charge",
+  "template": "minecraft:tide_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:diamond_chestplate"
   }
