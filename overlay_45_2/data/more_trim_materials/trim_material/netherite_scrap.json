@@ -1,9 +1,0 @@
-{
-  "asset_name": "netherite_scrap",
-  "description": {
-    "color": "#7e6059",
-    "translate": "trim_material.more_trim_materials.netherite_scrap"
-  },
-  "ingredient": "minecraft:netherite_scrap",
-  "item_model_index": 3.1
-}

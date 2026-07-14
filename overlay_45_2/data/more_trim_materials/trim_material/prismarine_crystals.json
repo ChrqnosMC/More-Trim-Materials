@@ -1,9 +1,0 @@
-{
-    "asset_name": "prismarine_crystals",
-    "description": {
-      "color": "#B4D8CA",
-      "translate": "trim_material.more_trim_materials.prismarine_crystals"
-    },
-    "ingredient": "minecraft:prismarine_crystals",
-    "item_model_index": 3.3
-  }

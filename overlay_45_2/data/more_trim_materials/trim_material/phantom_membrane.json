@@ -1,9 +1,0 @@
-{
-  "asset_name": "phantom_membrane",
-  "description": {
-    "color": "#c3aca1",
-    "translate": "trim_material.more_trim_materials.phantom_membrane"
-  },
-  "ingredient": "minecraft:phantom_membrane",
-  "item_model_index": 3.2
-}

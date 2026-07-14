@@ -1,9 +1,0 @@
-{
-  "asset_name": "nautilus",
-  "description": {
-    "color": "#baad96",
-    "translate": "trim_material.more_trim_materials.nautilus"
-  },
-  "ingredient": "minecraft:nautilus_shell",
-  "item_model_index": 2.8
-}
