@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/diamond_chestplate_shaper_trim",
-    "layer1": "more_item_materials:trims/items/chestplate_trim_shaper_turtle_scute"
+    "layer1": "more_trim_materials:trims/items/chestplate_trim_shaper_turtle_scute"
   }
 }

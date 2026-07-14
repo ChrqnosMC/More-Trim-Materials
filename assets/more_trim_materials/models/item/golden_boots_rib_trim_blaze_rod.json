@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/golden_boots_rib_trim",
-    "layer1": "more_item_materials:trims/items/boots_trim_rib_blaze_rod"
+    "layer1": "more_trim_materials:trims/items/boots_trim_rib_blaze_rod"
   }
 }

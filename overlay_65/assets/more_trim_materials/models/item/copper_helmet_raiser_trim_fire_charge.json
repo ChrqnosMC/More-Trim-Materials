@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/copper_helmet_raiser_trim",
-    "layer1": "more_item_materials:trims/items/helmet_trim_raiser_fire_charge"
+    "layer1": "more_trim_materials:trims/items/helmet_trim_raiser_fire_charge"
   }
 }

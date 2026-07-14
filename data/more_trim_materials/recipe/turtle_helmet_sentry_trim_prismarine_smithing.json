@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing_transform",
   "base": "minecraft:turtle_helmet",
-  "addition": "minecraft:undefined",
+  "addition": "minecraft:prismarine_shard",
   "template": "minecraft:sentry_armor_trim_smithing_template",
   "result": {
     "id": "minecraft:turtle_helmet"

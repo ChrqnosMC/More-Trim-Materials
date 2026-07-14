@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/copper_boots_ward_trim",
-    "layer1": "more_item_materials:trims/items/boots_trim_ward_honeycomb"
+    "layer1": "more_trim_materials:trims/items/boots_trim_ward_honeycomb"
   }
 }
