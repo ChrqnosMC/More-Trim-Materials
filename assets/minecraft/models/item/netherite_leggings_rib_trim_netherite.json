@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/netherite_leggings_rib_trim",
-    "layer1": "minecraft:trims/items/leggings_trim_rib_netherite"
+    "layer1": "minecraft:trims/items/leggings_trim_rib_netherite_darker"
   }
 }

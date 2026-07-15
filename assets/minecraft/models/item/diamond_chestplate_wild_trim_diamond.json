@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/diamond_chestplate_wild_trim",
-    "layer1": "minecraft:trims/items/chestplate_trim_wild_diamond"
+    "layer1": "minecraft:trims/items/chestplate_trim_wild_diamond_darker"
   }
 }

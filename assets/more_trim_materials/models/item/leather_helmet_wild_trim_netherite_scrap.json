@@ -2,6 +2,7 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/leather_helmet_wild_trim",
-    "layer1": "more_trim_materials:trims/items/helmet_trim_wild_netherite_scrap"
+    "layer1": "minecraft:item/leather_helmet_overlay_wild_trim",
+    "layer2": "more_trim_materials:trims/items/helmet_trim_wild_netherite_scrap"
   }
 }

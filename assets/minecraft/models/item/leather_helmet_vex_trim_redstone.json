@@ -2,6 +2,7 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/leather_helmet_vex_trim",
-    "layer1": "minecraft:trims/items/helmet_trim_vex_redstone"
+    "layer1": "minecraft:item/leather_helmet_overlay_vex_trim",
+    "layer2": "minecraft:trims/items/helmet_trim_vex_redstone"
   }
 }

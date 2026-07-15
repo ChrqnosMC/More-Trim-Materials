@@ -2,6 +2,7 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/leather_helmet_rib_trim",
-    "layer1": "more_trim_materials:trims/items/helmet_trim_rib_blaze_rod"
+    "layer1": "minecraft:item/leather_helmet_overlay_rib_trim",
+    "layer2": "more_trim_materials:trims/items/helmet_trim_rib_blaze_rod"
   }
 }

@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/golden_boots_rib_trim",
-    "layer1": "minecraft:trims/items/boots_trim_rib_gold"
+    "layer1": "minecraft:trims/items/boots_trim_rib_gold_darker"
   }
 }

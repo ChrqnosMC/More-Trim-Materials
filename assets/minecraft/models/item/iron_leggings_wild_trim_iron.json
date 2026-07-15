@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/iron_leggings_wild_trim",
-    "layer1": "minecraft:trims/items/leggings_trim_wild_iron"
+    "layer1": "minecraft:trims/items/leggings_trim_wild_iron_darker"
   }
 }

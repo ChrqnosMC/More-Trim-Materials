@@ -2,6 +2,7 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/leather_chestplate_dune_trim",
-    "layer1": "more_trim_materials:trims/items/chestplate_trim_dune_prismarine_crystals"
+    "layer1": "minecraft:item/leather_chestplate_overlay_dune_trim",
+    "layer2": "more_trim_materials:trims/items/chestplate_trim_dune_prismarine_crystals"
   }
 }

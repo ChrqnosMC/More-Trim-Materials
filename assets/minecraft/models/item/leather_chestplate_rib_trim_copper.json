@@ -2,6 +2,7 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/leather_chestplate_rib_trim",
-    "layer1": "minecraft:trims/items/chestplate_trim_rib_copper"
+    "layer1": "minecraft:item/leather_chestplate_overlay_rib_trim",
+    "layer2": "minecraft:trims/items/chestplate_trim_rib_copper"
   }
 }

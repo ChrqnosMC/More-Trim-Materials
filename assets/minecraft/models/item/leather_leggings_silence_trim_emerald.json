@@ -2,6 +2,7 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/leather_leggings_silence_trim",
-    "layer1": "minecraft:trims/items/leggings_trim_silence_emerald"
+    "layer1": "minecraft:item/leather_leggings_overlay_silence_trim",
+    "layer2": "minecraft:trims/items/leggings_trim_silence_emerald"
   }
 }
