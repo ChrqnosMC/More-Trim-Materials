@@ -11238,7 +11238,13 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/leather_boots"
+      "model": "minecraft:item/leather_boots",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -6265536
+        }
+      ]
     },
     "property": "minecraft:component"
   }

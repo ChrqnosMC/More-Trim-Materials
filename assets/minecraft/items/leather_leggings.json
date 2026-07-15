@@ -11238,7 +11238,13 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/leather_leggings"
+      "model": "minecraft:item/leather_leggings",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -6265536
+        }
+      ]
     },
     "property": "minecraft:component"
   }
