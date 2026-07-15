@@ -1,6 +1,8 @@
 {
-  "targets": "minecraft:experience_bottle",
-  "components": {
+  "elements": [
+    "minecraft:experience_bottle"
+  ],
+  "patch": {
     "minecraft:provides_trim_material": "more_trim_materials:experience_bottle"
   }
 }

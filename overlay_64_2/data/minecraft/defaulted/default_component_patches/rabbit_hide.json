@@ -1,6 +1,8 @@
 {
-  "targets": "minecraft:rabbit_hide",
-  "components": {
+  "elements": [
+    "minecraft:rabbit_hide"
+  ],
+  "patch": {
     "minecraft:provides_trim_material": "more_trim_materials:rabbit_hide"
   }
 }

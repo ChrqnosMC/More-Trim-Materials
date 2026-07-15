@@ -1,6 +1,8 @@
 {
-  "targets": "minecraft:glow_ink_sac",
-  "components": {
+  "elements": [
+    "minecraft:glow_ink_sac"
+  ],
+  "patch": {
     "minecraft:provides_trim_material": "more_trim_materials:glow_ink"
   }
 }

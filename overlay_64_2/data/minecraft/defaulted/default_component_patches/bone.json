@@ -1,6 +1,8 @@
 {
-  "targets": "minecraft:bone",
-  "components": {
+  "elements": [
+    "minecraft:bone"
+  ],
+  "patch": {
     "minecraft:provides_trim_material": "more_trim_materials:bone"
   }
 }

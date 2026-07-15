@@ -1,6 +1,8 @@
 {
-  "targets": "minecraft:coal",
-  "components": {
+  "elements": [
+    "minecraft:coal"
+  ],
+  "patch": {
     "minecraft:provides_trim_material": "more_trim_materials:coal"
   }
 }

@@ -1,6 +1,8 @@
 {
-  "targets": "minecraft:armadillo_scute",
-  "components": {
+  "elements": [
+    "minecraft:armadillo_scute"
+  ],
+  "patch": {
     "minecraft:provides_trim_material": "more_trim_materials:armadillo_scute"
   }
 }

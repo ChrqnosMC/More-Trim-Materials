@@ -1,6 +1,8 @@
 {
-  "targets": "minecraft:end_crystal",
-  "components": {
+  "elements": [
+    "minecraft:end_crystal"
+  ],
+  "patch": {
     "minecraft:provides_trim_material": "more_trim_materials:end_crystal"
   }
 }

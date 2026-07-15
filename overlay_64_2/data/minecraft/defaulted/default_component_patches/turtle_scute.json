@@ -1,6 +1,8 @@
 {
-  "targets": "minecraft:turtle_scute",
-  "components": {
+  "elements": [
+    "minecraft:turtle_scute"
+  ],
+  "patch": {
     "minecraft:provides_trim_material": "more_trim_materials:turtle_scute"
   }
 }

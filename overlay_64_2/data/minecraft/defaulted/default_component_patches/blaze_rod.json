@@ -1,6 +1,8 @@
 {
-  "targets": "minecraft:blaze_rod",
-  "components": {
+  "elements": [
+    "minecraft:blaze_rod"
+  ],
+  "patch": {
     "minecraft:provides_trim_material": "more_trim_materials:blaze_rod"
   }
 }

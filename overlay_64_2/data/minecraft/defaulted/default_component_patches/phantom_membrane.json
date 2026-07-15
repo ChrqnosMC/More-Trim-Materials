@@ -1,6 +1,8 @@
 {
-  "targets": "minecraft:phantom_membrane",
-  "components": {
+  "elements": [
+    "minecraft:phantom_membrane"
+  ],
+  "patch": {
     "minecraft:provides_trim_material": "more_trim_materials:phantom_membrane"
   }
 }

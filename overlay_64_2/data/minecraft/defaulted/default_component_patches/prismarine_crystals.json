@@ -1,6 +1,8 @@
 {
-  "targets": "minecraft:prismarine_crystals",
-  "components": {
+  "elements": [
+    "minecraft:prismarine_crystals"
+  ],
+  "patch": {
     "minecraft:provides_trim_material": "more_trim_materials:prismarine_crystals"
   }
 }
