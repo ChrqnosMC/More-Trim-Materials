@@ -1,0 +1,9 @@
+{
+  "asset_name": "turtle_scute",
+  "description": {
+    "color": "#3fa442",
+    "translate": "trim_material.more_trim_materials.turtle_scute"
+  },
+  "ingredient": "minecraft:turtle_scute",
+  "item_model_index": 0.39
+}

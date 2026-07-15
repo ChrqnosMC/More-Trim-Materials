@@ -1,0 +1,9 @@
+{
+  "asset_name": "nether_star",
+  "description": {
+    "color": "#f7fad6",
+    "translate": "trim_material.more_trim_materials.nether_star"
+  },
+  "ingredient": "minecraft:nether_star",
+  "item_model_index": 0.31
+}

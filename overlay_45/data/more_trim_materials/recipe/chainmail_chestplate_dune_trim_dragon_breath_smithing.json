@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:chainmail_chestplate"
+  },
+  "addition": {
+    "item": "minecraft:dragon_breath"
+  },
+  "template": {
+    "item": "minecraft:dune_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:chainmail_chestplate",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:dragon_breath",
+        "pattern": "minecraft:dune",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 3
+    }
+  }
+}
