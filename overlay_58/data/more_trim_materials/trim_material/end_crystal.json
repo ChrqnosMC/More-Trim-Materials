@@ -1,9 +1,0 @@
-{
-    "asset_name": "end_crystal",
-    "description": {
-      "color": "#BE95D4",
-      "translate": "trim_material.more_trim_materials.end_crystal"
-    },
-    "ingredient": "minecraft:end_crystal",
-    "item_model_index": 0.19
-  }

@@ -1,9 +1,0 @@
-{
-  "asset_name": "honeycomb",
-  "description": {
-    "color": "#faab1c",
-    "translate": "trim_material.more_trim_materials.honeycomb"
-  },
-  "ingredient": "minecraft:honeycomb",
-  "item_model_index": 2.6
-}
