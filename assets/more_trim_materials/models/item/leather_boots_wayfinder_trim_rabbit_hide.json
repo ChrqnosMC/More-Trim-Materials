@@ -1,8 +1,8 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/leather_boots_wayfinder_trim",
-    "layer1": "minecraft:item/leather_boots_overlay_wayfinder_trim",
+    "layer0": "more_trim_materials:item/leather_boots_wayfinder_trim",
+    "layer1": "more_trim_materials:item/leather_boots_overlay_wayfinder_trim",
     "layer2": "more_trim_materials:trims/items/boots_trim_wayfinder_rabbit_hide"
   }
 }

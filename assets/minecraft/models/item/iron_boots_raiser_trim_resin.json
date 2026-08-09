@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/iron_boots_raiser_trim",
-    "layer1": "minecraft:trims/items/boots_trim_raiser_resin"
-  }
-}

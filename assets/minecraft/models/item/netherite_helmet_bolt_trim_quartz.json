@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/netherite_helmet_bolt_trim",
-    "layer1": "minecraft:trims/items/helmet_trim_bolt_quartz"
-  }
-}

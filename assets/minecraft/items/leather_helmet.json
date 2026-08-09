@@ -6,7 +6,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_bolt_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_bolt_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -22,7 +22,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_bolt_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_bolt_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -38,7 +38,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_bolt_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_bolt_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -54,7 +54,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_bolt_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_bolt_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -70,7 +70,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_bolt_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_bolt_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -86,7 +86,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_bolt_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_bolt_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -102,7 +102,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_bolt_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_bolt_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -118,7 +118,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_bolt_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_bolt_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -134,7 +134,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_bolt_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_bolt_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -150,7 +150,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_bolt_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_bolt_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -166,7 +166,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_bolt_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_bolt_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -630,7 +630,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_coast_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_coast_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -646,7 +646,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_coast_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_coast_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -662,7 +662,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_coast_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_coast_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -678,7 +678,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_coast_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_coast_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -694,7 +694,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_coast_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_coast_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -710,7 +710,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_coast_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_coast_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -726,7 +726,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_coast_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_coast_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -742,7 +742,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_coast_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_coast_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -758,7 +758,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_coast_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_coast_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -774,7 +774,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_coast_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_coast_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -790,7 +790,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_coast_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_coast_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1254,7 +1254,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_dune_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_dune_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1270,7 +1270,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_dune_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_dune_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1286,7 +1286,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_dune_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_dune_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1302,7 +1302,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_dune_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_dune_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1318,7 +1318,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_dune_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_dune_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1334,7 +1334,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_dune_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_dune_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1350,7 +1350,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_dune_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_dune_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1366,7 +1366,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_dune_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_dune_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1382,7 +1382,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_dune_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_dune_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1398,7 +1398,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_dune_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_dune_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1414,7 +1414,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_dune_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_dune_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1878,7 +1878,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_eye_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_eye_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1894,7 +1894,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_eye_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_eye_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1910,7 +1910,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_eye_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_eye_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1926,7 +1926,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_eye_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_eye_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1942,7 +1942,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_eye_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_eye_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1958,7 +1958,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_eye_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_eye_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1974,7 +1974,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_eye_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_eye_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -1990,7 +1990,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_eye_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_eye_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2006,7 +2006,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_eye_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_eye_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2022,7 +2022,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_eye_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_eye_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2038,7 +2038,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_eye_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_eye_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2502,7 +2502,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_flow_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_flow_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2518,7 +2518,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_flow_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_flow_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2534,7 +2534,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_flow_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_flow_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2550,7 +2550,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_flow_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_flow_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2566,7 +2566,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_flow_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_flow_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2582,7 +2582,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_flow_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_flow_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2598,7 +2598,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_flow_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_flow_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2614,7 +2614,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_flow_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_flow_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2630,7 +2630,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_flow_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_flow_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2646,7 +2646,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_flow_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_flow_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -2662,7 +2662,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_flow_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_flow_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3126,7 +3126,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_host_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_host_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3142,7 +3142,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_host_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_host_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3158,7 +3158,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_host_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_host_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3174,7 +3174,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_host_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_host_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3190,7 +3190,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_host_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_host_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3206,7 +3206,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_host_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_host_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3222,7 +3222,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_host_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_host_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3238,7 +3238,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_host_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_host_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3254,7 +3254,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_host_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_host_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3270,7 +3270,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_host_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_host_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3286,7 +3286,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_host_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_host_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3750,7 +3750,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_raiser_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_raiser_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3766,7 +3766,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_raiser_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_raiser_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3782,7 +3782,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_raiser_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_raiser_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3798,7 +3798,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_raiser_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_raiser_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3814,7 +3814,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_raiser_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_raiser_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3830,7 +3830,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_raiser_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_raiser_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3846,7 +3846,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_raiser_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_raiser_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3862,7 +3862,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_raiser_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_raiser_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3878,7 +3878,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_raiser_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_raiser_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3894,7 +3894,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_raiser_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_raiser_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -3910,7 +3910,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_raiser_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_raiser_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4374,7 +4374,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_rib_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_rib_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4390,7 +4390,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_rib_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_rib_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4406,7 +4406,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_rib_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_rib_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4422,7 +4422,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_rib_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_rib_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4438,7 +4438,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_rib_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_rib_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4454,7 +4454,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_rib_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_rib_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4470,7 +4470,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_rib_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_rib_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4486,7 +4486,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_rib_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_rib_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4502,7 +4502,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_rib_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_rib_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4518,7 +4518,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_rib_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_rib_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4534,7 +4534,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_rib_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_rib_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -4998,7 +4998,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_sentry_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_sentry_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5014,7 +5014,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_sentry_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_sentry_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5030,7 +5030,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_sentry_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_sentry_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5046,7 +5046,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_sentry_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_sentry_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5062,7 +5062,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_sentry_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_sentry_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5078,7 +5078,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_sentry_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_sentry_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5094,7 +5094,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_sentry_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_sentry_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5110,7 +5110,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_sentry_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_sentry_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5126,7 +5126,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_sentry_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_sentry_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5142,7 +5142,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_sentry_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_sentry_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5158,7 +5158,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_sentry_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_sentry_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5622,7 +5622,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_shaper_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_shaper_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5638,7 +5638,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_shaper_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_shaper_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5654,7 +5654,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_shaper_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_shaper_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5670,7 +5670,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_shaper_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_shaper_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5686,7 +5686,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_shaper_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_shaper_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5702,7 +5702,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_shaper_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_shaper_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5718,7 +5718,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_shaper_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_shaper_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5734,7 +5734,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_shaper_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_shaper_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5750,7 +5750,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_shaper_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_shaper_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5766,7 +5766,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_shaper_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_shaper_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -5782,7 +5782,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_shaper_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_shaper_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6246,7 +6246,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_silence_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_silence_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6262,7 +6262,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_silence_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_silence_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6278,7 +6278,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_silence_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_silence_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6294,7 +6294,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_silence_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_silence_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6310,7 +6310,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_silence_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_silence_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6326,7 +6326,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_silence_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_silence_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6342,7 +6342,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_silence_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_silence_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6358,7 +6358,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_silence_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_silence_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6374,7 +6374,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_silence_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_silence_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6390,7 +6390,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_silence_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_silence_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6406,7 +6406,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_silence_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_silence_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6870,7 +6870,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_snout_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_snout_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6886,7 +6886,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_snout_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_snout_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6902,7 +6902,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_snout_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_snout_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6918,7 +6918,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_snout_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_snout_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6934,7 +6934,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_snout_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_snout_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6950,7 +6950,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_snout_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_snout_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6966,7 +6966,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_snout_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_snout_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6982,7 +6982,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_snout_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_snout_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -6998,7 +6998,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_snout_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_snout_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7014,7 +7014,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_snout_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_snout_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7030,7 +7030,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_snout_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_snout_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7494,7 +7494,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_spire_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_spire_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7510,7 +7510,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_spire_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_spire_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7526,7 +7526,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_spire_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_spire_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7542,7 +7542,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_spire_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_spire_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7558,7 +7558,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_spire_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_spire_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7574,7 +7574,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_spire_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_spire_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7590,7 +7590,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_spire_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_spire_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7606,7 +7606,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_spire_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_spire_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7622,7 +7622,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_spire_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_spire_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7638,7 +7638,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_spire_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_spire_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -7654,7 +7654,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_spire_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_spire_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8118,7 +8118,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_tide_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_tide_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8134,7 +8134,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_tide_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_tide_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8150,7 +8150,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_tide_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_tide_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8166,7 +8166,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_tide_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_tide_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8182,7 +8182,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_tide_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_tide_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8198,7 +8198,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_tide_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_tide_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8214,7 +8214,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_tide_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_tide_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8230,7 +8230,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_tide_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_tide_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8246,7 +8246,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_tide_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_tide_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8262,7 +8262,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_tide_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_tide_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8278,7 +8278,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_tide_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_tide_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8742,7 +8742,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_vex_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_vex_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8758,7 +8758,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_vex_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_vex_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8774,7 +8774,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_vex_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_vex_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8790,7 +8790,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_vex_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_vex_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8806,7 +8806,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_vex_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_vex_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8822,7 +8822,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_vex_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_vex_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8838,7 +8838,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_vex_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_vex_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8854,7 +8854,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_vex_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_vex_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8870,7 +8870,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_vex_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_vex_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8886,7 +8886,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_vex_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_vex_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -8902,7 +8902,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_vex_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_vex_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9366,7 +9366,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_ward_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_ward_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9382,7 +9382,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_ward_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_ward_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9398,7 +9398,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_ward_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_ward_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9414,7 +9414,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_ward_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_ward_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9430,7 +9430,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_ward_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_ward_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9446,7 +9446,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_ward_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_ward_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9462,7 +9462,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_ward_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_ward_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9478,7 +9478,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_ward_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_ward_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9494,7 +9494,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_ward_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_ward_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9510,7 +9510,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_ward_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_ward_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9526,7 +9526,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_ward_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_ward_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -9990,7 +9990,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wayfinder_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_wayfinder_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10006,7 +10006,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wayfinder_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_wayfinder_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10022,7 +10022,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wayfinder_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_wayfinder_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10038,7 +10038,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wayfinder_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_wayfinder_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10054,7 +10054,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wayfinder_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_wayfinder_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10070,7 +10070,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wayfinder_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_wayfinder_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10086,7 +10086,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wayfinder_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_wayfinder_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10102,7 +10102,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wayfinder_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_wayfinder_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10118,7 +10118,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wayfinder_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_wayfinder_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10134,7 +10134,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wayfinder_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_wayfinder_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10150,7 +10150,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wayfinder_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_wayfinder_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10614,7 +10614,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wild_trim_quartz",
+          "model": "more_trim_materials:item/leather_helmet_wild_trim_quartz",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10630,7 +10630,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wild_trim_iron",
+          "model": "more_trim_materials:item/leather_helmet_wild_trim_iron",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10646,7 +10646,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wild_trim_netherite",
+          "model": "more_trim_materials:item/leather_helmet_wild_trim_netherite",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10662,7 +10662,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wild_trim_redstone",
+          "model": "more_trim_materials:item/leather_helmet_wild_trim_redstone",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10678,7 +10678,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wild_trim_copper",
+          "model": "more_trim_materials:item/leather_helmet_wild_trim_copper",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10694,7 +10694,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wild_trim_gold",
+          "model": "more_trim_materials:item/leather_helmet_wild_trim_gold",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10710,7 +10710,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wild_trim_emerald",
+          "model": "more_trim_materials:item/leather_helmet_wild_trim_emerald",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10726,7 +10726,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wild_trim_diamond",
+          "model": "more_trim_materials:item/leather_helmet_wild_trim_diamond",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10742,7 +10742,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wild_trim_lapis",
+          "model": "more_trim_materials:item/leather_helmet_wild_trim_lapis",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10758,7 +10758,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wild_trim_amethyst",
+          "model": "more_trim_materials:item/leather_helmet_wild_trim_amethyst",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -10774,7 +10774,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_helmet_wild_trim_resin",
+          "model": "more_trim_materials:item/leather_helmet_wild_trim_resin",
           "tints": [
             {
               "type": "minecraft:dye",

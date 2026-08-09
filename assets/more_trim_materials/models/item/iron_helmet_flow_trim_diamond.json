@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/iron_helmet_flow_trim",
+    "layer1": "more_trim_materials:trims/items/helmet_trim_flow_diamond"
+  }
+}

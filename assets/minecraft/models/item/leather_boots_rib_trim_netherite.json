@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/leather_boots_rib_trim",
-    "layer1": "minecraft:item/leather_boots_overlay_rib_trim",
-    "layer2": "minecraft:trims/items/boots_trim_rib_netherite"
-  }
-}

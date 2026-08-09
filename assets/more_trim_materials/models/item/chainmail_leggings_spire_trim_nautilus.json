@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/chainmail_leggings_spire_trim",
+    "layer0": "more_trim_materials:item/chainmail_leggings_spire_trim",
     "layer1": "more_trim_materials:trims/items/leggings_trim_spire_nautilus"
   }
 }

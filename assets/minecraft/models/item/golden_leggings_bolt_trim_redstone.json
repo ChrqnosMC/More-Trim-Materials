@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/golden_leggings_bolt_trim",
-    "layer1": "minecraft:trims/items/leggings_trim_bolt_redstone"
-  }
-}

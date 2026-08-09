@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/leather_chestplate_raiser_trim",
+    "layer1": "more_trim_materials:item/leather_chestplate_overlay_raiser_trim",
+    "layer2": "minecraft:trims/items/chestplate_trim_raiser_redstone"
+  }
+}

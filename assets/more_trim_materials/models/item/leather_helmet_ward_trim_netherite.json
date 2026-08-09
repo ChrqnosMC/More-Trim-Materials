@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/leather_helmet_ward_trim",
+    "layer1": "more_trim_materials:item/leather_helmet_overlay_ward_trim",
+    "layer2": "minecraft:trims/items/helmet_trim_ward_netherite"
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/chainmail_leggings_snout_trim",
-    "layer1": "minecraft:trims/items/leggings_trim_snout_resin"
-  }
-}

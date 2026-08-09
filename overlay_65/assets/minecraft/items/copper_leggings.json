@@ -1,11 +1,12 @@
 {
   "model": {
     "type": "minecraft:select",
+    "component": "minecraft:trim",
     "cases": [
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_bolt_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_bolt_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -15,7 +16,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_bolt_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_bolt_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -25,7 +26,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_bolt_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_bolt_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -35,7 +36,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_bolt_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_bolt_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -45,7 +46,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_bolt_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_bolt_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -55,7 +56,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_bolt_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_bolt_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -65,7 +66,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_bolt_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_bolt_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -75,7 +76,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_bolt_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_bolt_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -85,7 +86,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_bolt_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_bolt_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -95,7 +96,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_bolt_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_bolt_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -105,7 +106,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_bolt_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_bolt_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -395,7 +396,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_coast_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_coast_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -405,7 +406,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_coast_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_coast_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -415,7 +416,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_coast_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_coast_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -425,7 +426,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_coast_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_coast_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -435,7 +436,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_coast_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_coast_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -445,7 +446,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_coast_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_coast_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -455,7 +456,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_coast_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_coast_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -465,7 +466,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_coast_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_coast_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -475,7 +476,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_coast_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_coast_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -485,7 +486,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_coast_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_coast_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -495,7 +496,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_coast_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_coast_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -785,7 +786,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_dune_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_dune_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -795,7 +796,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_dune_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_dune_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -805,7 +806,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_dune_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_dune_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -815,7 +816,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_dune_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_dune_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -825,7 +826,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_dune_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_dune_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -835,7 +836,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_dune_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_dune_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -845,7 +846,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_dune_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_dune_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -855,7 +856,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_dune_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_dune_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -865,7 +866,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_dune_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_dune_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -875,7 +876,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_dune_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_dune_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -885,7 +886,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_dune_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_dune_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -1175,7 +1176,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_eye_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_eye_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -1185,7 +1186,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_eye_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_eye_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -1195,7 +1196,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_eye_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_eye_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -1205,7 +1206,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_eye_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_eye_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -1215,7 +1216,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_eye_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_eye_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -1225,7 +1226,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_eye_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_eye_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -1235,7 +1236,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_eye_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_eye_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -1245,7 +1246,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_eye_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_eye_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -1255,7 +1256,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_eye_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_eye_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -1265,7 +1266,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_eye_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_eye_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -1275,7 +1276,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_eye_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_eye_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -1565,7 +1566,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_flow_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_flow_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -1575,7 +1576,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_flow_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_flow_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -1585,7 +1586,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_flow_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_flow_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -1595,7 +1596,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_flow_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_flow_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -1605,7 +1606,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_flow_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_flow_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -1615,7 +1616,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_flow_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_flow_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -1625,7 +1626,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_flow_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_flow_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -1635,7 +1636,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_flow_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_flow_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -1645,7 +1646,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_flow_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_flow_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -1655,7 +1656,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_flow_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_flow_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -1665,7 +1666,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_flow_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_flow_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -1955,7 +1956,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_host_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_host_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -1965,7 +1966,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_host_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_host_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -1975,7 +1976,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_host_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_host_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -1985,7 +1986,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_host_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_host_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -1995,7 +1996,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_host_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_host_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -2005,7 +2006,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_host_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_host_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -2015,7 +2016,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_host_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_host_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -2025,7 +2026,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_host_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_host_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -2035,7 +2036,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_host_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_host_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -2045,7 +2046,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_host_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_host_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -2055,7 +2056,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_host_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_host_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -2345,7 +2346,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_raiser_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_raiser_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -2355,7 +2356,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_raiser_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_raiser_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -2365,7 +2366,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_raiser_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_raiser_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -2375,7 +2376,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_raiser_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_raiser_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -2385,7 +2386,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_raiser_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_raiser_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -2395,7 +2396,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_raiser_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_raiser_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -2405,7 +2406,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_raiser_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_raiser_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -2415,7 +2416,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_raiser_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_raiser_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -2425,7 +2426,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_raiser_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_raiser_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -2435,7 +2436,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_raiser_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_raiser_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -2445,7 +2446,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_raiser_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_raiser_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -2735,7 +2736,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_rib_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_rib_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -2745,7 +2746,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_rib_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_rib_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -2755,7 +2756,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_rib_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_rib_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -2765,7 +2766,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_rib_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_rib_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -2775,7 +2776,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_rib_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_rib_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -2785,7 +2786,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_rib_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_rib_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -2795,7 +2796,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_rib_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_rib_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -2805,7 +2806,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_rib_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_rib_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -2815,7 +2816,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_rib_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_rib_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -2825,7 +2826,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_rib_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_rib_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -2835,7 +2836,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_rib_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_rib_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -3125,7 +3126,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_sentry_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_sentry_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -3135,7 +3136,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_sentry_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_sentry_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -3145,7 +3146,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_sentry_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_sentry_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -3155,7 +3156,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_sentry_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_sentry_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -3165,7 +3166,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_sentry_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_sentry_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -3175,7 +3176,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_sentry_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_sentry_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -3185,7 +3186,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_sentry_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_sentry_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -3195,7 +3196,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_sentry_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_sentry_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -3205,7 +3206,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_sentry_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_sentry_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -3215,7 +3216,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_sentry_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_sentry_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -3225,7 +3226,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_sentry_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_sentry_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -3515,7 +3516,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_shaper_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_shaper_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -3525,7 +3526,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_shaper_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_shaper_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -3535,7 +3536,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_shaper_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_shaper_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -3545,7 +3546,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_shaper_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_shaper_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -3555,7 +3556,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_shaper_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_shaper_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -3565,7 +3566,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_shaper_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_shaper_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -3575,7 +3576,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_shaper_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_shaper_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -3585,7 +3586,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_shaper_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_shaper_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -3595,7 +3596,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_shaper_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_shaper_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -3605,7 +3606,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_shaper_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_shaper_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -3615,7 +3616,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_shaper_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_shaper_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -3905,7 +3906,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_silence_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_silence_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -3915,7 +3916,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_silence_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_silence_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -3925,7 +3926,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_silence_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_silence_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -3935,7 +3936,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_silence_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_silence_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -3945,7 +3946,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_silence_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_silence_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -3955,7 +3956,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_silence_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_silence_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -3965,7 +3966,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_silence_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_silence_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -3975,7 +3976,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_silence_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_silence_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -3985,7 +3986,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_silence_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_silence_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -3995,7 +3996,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_silence_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_silence_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -4005,7 +4006,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_silence_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_silence_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -4295,7 +4296,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_snout_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_snout_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -4305,7 +4306,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_snout_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_snout_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -4315,7 +4316,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_snout_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_snout_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -4325,7 +4326,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_snout_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_snout_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -4335,7 +4336,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_snout_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_snout_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -4345,7 +4346,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_snout_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_snout_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -4355,7 +4356,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_snout_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_snout_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -4365,7 +4366,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_snout_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_snout_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -4375,7 +4376,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_snout_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_snout_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -4385,7 +4386,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_snout_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_snout_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -4395,7 +4396,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_snout_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_snout_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -4685,7 +4686,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_spire_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_spire_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -4695,7 +4696,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_spire_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_spire_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -4705,7 +4706,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_spire_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_spire_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -4715,7 +4716,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_spire_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_spire_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -4725,7 +4726,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_spire_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_spire_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -4735,7 +4736,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_spire_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_spire_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -4745,7 +4746,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_spire_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_spire_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -4755,7 +4756,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_spire_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_spire_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -4765,7 +4766,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_spire_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_spire_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -4775,7 +4776,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_spire_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_spire_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -4785,7 +4786,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_spire_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_spire_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -5075,7 +5076,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_tide_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_tide_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -5085,7 +5086,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_tide_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_tide_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -5095,7 +5096,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_tide_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_tide_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -5105,7 +5106,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_tide_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_tide_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -5115,7 +5116,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_tide_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_tide_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -5125,7 +5126,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_tide_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_tide_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -5135,7 +5136,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_tide_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_tide_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -5145,7 +5146,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_tide_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_tide_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -5155,7 +5156,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_tide_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_tide_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -5165,7 +5166,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_tide_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_tide_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -5175,7 +5176,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_tide_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_tide_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -5465,7 +5466,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_vex_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_vex_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -5475,7 +5476,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_vex_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_vex_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -5485,7 +5486,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_vex_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_vex_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -5495,7 +5496,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_vex_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_vex_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -5505,7 +5506,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_vex_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_vex_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -5515,7 +5516,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_vex_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_vex_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -5525,7 +5526,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_vex_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_vex_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -5535,7 +5536,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_vex_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_vex_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -5545,7 +5546,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_vex_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_vex_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -5555,7 +5556,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_vex_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_vex_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -5565,7 +5566,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_vex_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_vex_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -5855,7 +5856,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_ward_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_ward_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -5865,7 +5866,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_ward_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_ward_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -5875,7 +5876,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_ward_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_ward_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -5885,7 +5886,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_ward_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_ward_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -5895,7 +5896,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_ward_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_ward_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -5905,7 +5906,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_ward_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_ward_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -5915,7 +5916,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_ward_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_ward_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -5925,7 +5926,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_ward_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_ward_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -5935,7 +5936,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_ward_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_ward_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -5945,7 +5946,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_ward_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_ward_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -5955,7 +5956,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_ward_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_ward_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -6245,7 +6246,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wayfinder_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_wayfinder_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -6255,7 +6256,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wayfinder_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_wayfinder_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -6265,7 +6266,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wayfinder_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_wayfinder_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -6275,7 +6276,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wayfinder_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_wayfinder_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -6285,7 +6286,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wayfinder_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_wayfinder_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -6295,7 +6296,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wayfinder_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_wayfinder_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -6305,7 +6306,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wayfinder_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_wayfinder_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -6315,7 +6316,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wayfinder_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_wayfinder_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -6325,7 +6326,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wayfinder_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_wayfinder_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -6335,7 +6336,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wayfinder_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_wayfinder_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -6345,7 +6346,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wayfinder_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_wayfinder_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -6635,7 +6636,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wild_trim_quartz"
+          "model": "more_trim_materials:item/copper_leggings_wild_trim_quartz"
         },
         "when": {
           "material": "minecraft:quartz",
@@ -6645,7 +6646,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wild_trim_iron"
+          "model": "more_trim_materials:item/copper_leggings_wild_trim_iron"
         },
         "when": {
           "material": "minecraft:iron",
@@ -6655,7 +6656,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wild_trim_netherite"
+          "model": "more_trim_materials:item/copper_leggings_wild_trim_netherite"
         },
         "when": {
           "material": "minecraft:netherite",
@@ -6665,7 +6666,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wild_trim_redstone"
+          "model": "more_trim_materials:item/copper_leggings_wild_trim_redstone"
         },
         "when": {
           "material": "minecraft:redstone",
@@ -6675,7 +6676,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wild_trim_copper"
+          "model": "more_trim_materials:item/copper_leggings_wild_trim_copper"
         },
         "when": {
           "material": "minecraft:copper",
@@ -6685,7 +6686,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wild_trim_gold"
+          "model": "more_trim_materials:item/copper_leggings_wild_trim_gold"
         },
         "when": {
           "material": "minecraft:gold",
@@ -6695,7 +6696,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wild_trim_emerald"
+          "model": "more_trim_materials:item/copper_leggings_wild_trim_emerald"
         },
         "when": {
           "material": "minecraft:emerald",
@@ -6705,7 +6706,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wild_trim_diamond"
+          "model": "more_trim_materials:item/copper_leggings_wild_trim_diamond"
         },
         "when": {
           "material": "minecraft:diamond",
@@ -6715,7 +6716,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wild_trim_lapis"
+          "model": "more_trim_materials:item/copper_leggings_wild_trim_lapis"
         },
         "when": {
           "material": "minecraft:lapis",
@@ -6725,7 +6726,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wild_trim_amethyst"
+          "model": "more_trim_materials:item/copper_leggings_wild_trim_amethyst"
         },
         "when": {
           "material": "minecraft:amethyst",
@@ -6735,7 +6736,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_leggings_wild_trim_resin"
+          "model": "more_trim_materials:item/copper_leggings_wild_trim_resin"
         },
         "when": {
           "material": "minecraft:resin",
@@ -7027,6 +7028,6 @@
       "type": "minecraft:model",
       "model": "minecraft:item/copper_leggings"
     },
-    "property": "minecraft:custom_model_data"
+    "property": "minecraft:component"
   }
 }

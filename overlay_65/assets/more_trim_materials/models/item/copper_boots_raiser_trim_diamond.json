@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/copper_boots_raiser_trim",
+    "layer1": "more_trim_materials:trims/items/boots_trim_raiser_diamond"
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/diamond_leggings_ward_trim",
-    "layer1": "minecraft:trims/items/leggings_trim_ward_copper"
-  }
-}

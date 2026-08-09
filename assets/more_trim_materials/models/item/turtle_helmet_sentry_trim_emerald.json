@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/turtle_helmet_sentry_trim",
+    "layer1": "more_trim_materials:trims/items/helmet_trim_sentry_emerald"
+  }
+}

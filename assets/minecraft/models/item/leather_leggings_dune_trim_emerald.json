@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/leather_leggings_dune_trim",
-    "layer1": "minecraft:item/leather_leggings_overlay_dune_trim",
-    "layer2": "minecraft:trims/items/leggings_trim_dune_emerald"
-  }
-}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/golden_chestplate_snout_trim",
+    "layer1": "more_trim_materials:trims/items/chestplate_trim_snout_gold_darker"
+  }
+}

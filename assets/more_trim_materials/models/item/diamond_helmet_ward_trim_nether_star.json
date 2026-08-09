@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/diamond_helmet_ward_trim",
+    "layer0": "more_trim_materials:item/diamond_helmet_ward_trim",
     "layer1": "more_trim_materials:trims/items/helmet_trim_ward_nether_star"
   }
 }

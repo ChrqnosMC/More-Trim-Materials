@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/diamond_leggings_rib_trim",
+    "layer0": "more_trim_materials:item/diamond_leggings_rib_trim",
     "layer1": "more_trim_materials:trims/items/leggings_trim_rib_blaze_rod"
   }
 }

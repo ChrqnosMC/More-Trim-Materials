@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_trim_materials:item/copper_helmet_bolt_trim",
+    "layer1": "more_trim_materials:trims/items/helmet_trim_bolt_gold"
+  }
+}

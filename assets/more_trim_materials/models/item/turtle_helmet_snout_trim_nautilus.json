@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/turtle_helmet_snout_trim",
+    "layer0": "more_trim_materials:item/turtle_helmet_snout_trim",
     "layer1": "more_trim_materials:trims/items/helmet_trim_snout_nautilus"
   }
 }
