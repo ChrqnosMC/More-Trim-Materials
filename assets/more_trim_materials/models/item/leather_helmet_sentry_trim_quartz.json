@@ -3,6 +3,6 @@
   "textures": {
     "layer0": "more_trim_materials:item/leather_helmet_sentry_trim",
     "layer1": "more_trim_materials:item/leather_helmet_overlay_sentry_trim",
-    "layer2": "minecraft:trims/items/helmet_trim_sentry_quartz"
+    "layer2": "more_trim_materials:trims/items/helmet_trim_sentry_quartz"
   }
 }

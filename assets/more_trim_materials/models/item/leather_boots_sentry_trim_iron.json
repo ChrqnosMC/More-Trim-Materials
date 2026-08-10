@@ -3,6 +3,6 @@
   "textures": {
     "layer0": "more_trim_materials:item/leather_boots_sentry_trim",
     "layer1": "more_trim_materials:item/leather_boots_overlay_sentry_trim",
-    "layer2": "minecraft:trims/items/boots_trim_sentry_iron"
+    "layer2": "more_trim_materials:trims/items/boots_trim_sentry_iron"
   }
 }

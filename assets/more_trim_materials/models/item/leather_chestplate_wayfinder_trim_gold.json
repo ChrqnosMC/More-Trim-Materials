@@ -3,6 +3,6 @@
   "textures": {
     "layer0": "more_trim_materials:item/leather_chestplate_wayfinder_trim",
     "layer1": "more_trim_materials:item/leather_chestplate_overlay_wayfinder_trim",
-    "layer2": "minecraft:trims/items/chestplate_trim_wayfinder_gold"
+    "layer2": "more_trim_materials:trims/items/chestplate_trim_wayfinder_gold"
   }
 }

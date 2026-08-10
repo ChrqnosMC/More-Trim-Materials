@@ -3,6 +3,6 @@
   "textures": {
     "layer0": "more_trim_materials:item/leather_leggings_rib_trim",
     "layer1": "more_trim_materials:item/leather_leggings_overlay_rib_trim",
-    "layer2": "minecraft:trims/items/leggings_trim_rib_gold"
+    "layer2": "more_trim_materials:trims/items/leggings_trim_rib_gold"
   }
 }

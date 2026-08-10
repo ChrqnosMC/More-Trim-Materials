@@ -3,6 +3,6 @@
   "textures": {
     "layer0": "more_trim_materials:item/leather_chestplate_sentry_trim",
     "layer1": "more_trim_materials:item/leather_chestplate_overlay_sentry_trim",
-    "layer2": "minecraft:trims/items/chestplate_trim_sentry_amethyst"
+    "layer2": "more_trim_materials:trims/items/chestplate_trim_sentry_amethyst"
   }
 }

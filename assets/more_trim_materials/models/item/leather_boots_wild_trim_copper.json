@@ -3,6 +3,6 @@
   "textures": {
     "layer0": "more_trim_materials:item/leather_boots_wild_trim",
     "layer1": "more_trim_materials:item/leather_boots_overlay_wild_trim",
-    "layer2": "minecraft:trims/items/boots_trim_wild_copper"
+    "layer2": "more_trim_materials:trims/items/boots_trim_wild_copper"
   }
 }

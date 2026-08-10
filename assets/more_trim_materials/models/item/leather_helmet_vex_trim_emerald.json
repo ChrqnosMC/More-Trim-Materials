@@ -3,6 +3,6 @@
   "textures": {
     "layer0": "more_trim_materials:item/leather_helmet_vex_trim",
     "layer1": "more_trim_materials:item/leather_helmet_overlay_vex_trim",
-    "layer2": "minecraft:trims/items/helmet_trim_vex_emerald"
+    "layer2": "more_trim_materials:trims/items/helmet_trim_vex_emerald"
   }
 }
