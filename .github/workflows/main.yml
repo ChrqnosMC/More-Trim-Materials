@@ -43,7 +43,7 @@ jobs:
           name: More Trim Materials ${{env.tag}}
           version: ${{env.tag}}
           files: '{"src/${{env.name}}-${{env.tag}}.zip", "src/${{env.name}}-${{env.tag}}-resourcepack.zip"}'
-          primary-file: src/${{env.name}}-${{env.tag}}.zip
-          file-types: '{"src/${{env.name}}-${{env.tag}}-resourcepack.zip": "required-resource-pack"}'
+          primary-file: ${{env.name}}-${{env.tag}}.zip
+          file-types: '{"${{env.name}}-${{env.tag}}-resourcepack.zip": "required-resource-pack"}'
           game-versions: ${{steps.read_file.outputs.contents}}
           loaders: datapack
