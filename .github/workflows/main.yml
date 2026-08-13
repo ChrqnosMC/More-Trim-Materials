@@ -24,8 +24,11 @@ jobs:
         with:
           name: ${{env.name}}-${{env.tag}}
           path: src
-      - name: Create zip file
-        run: zip -r ${{env.name}}-${{env.tag}}.zip . -x ".git/*" ".github/*" ".gitattributes" "supported_versions.txt"
+      - name: Create datapack zip file
+        run: zip -r ${{env.name}}-${{env.tag}}.zip . -x ".git/*" ".github/*" ".gitattributes" "supported_versions.txt" "assets/*" "overlay_48/*" "overlay_48_2/*" "overlay_65/*" "overlay_68/*" "overlay_68_2/*" "overlay_73/*" "overlay_89/*"
+        working-directory: src
+      - name: Create resourcepack zip file
+        run: zip -r ${{env.name}}-${{env.tag}}-resourcepack.zip . -x ".git/*" ".github/*" ".gitattributes" "supported_versions.txt" "data/*" "overlay_63/*" "overlay_64/*" "overlay_64_2/*" "overlay_108/*"
         working-directory: src
       - name: Read supported versions
         uses: andstor/file-reader-action@v1
@@ -33,14 +36,14 @@ jobs:
         with:
           path: src/supported_versions.txt
       - name: Upload to modrinth
-        uses: kir-antipov/mc-publish@v3.3
+        uses: cloudnode-pro/modrinth-publish@v2
         with:
-          modrinth-token: ${{secrets.ACCESS_TOKEN}}
-          modrinth-id: gvHzqCpP
-          game-version-filter: none
+          token: ${{secrets.ACCESS_TOKEN}}
+          project: gvHzqCpP
           name: More Trim Materials ${{env.tag}}
           version: ${{env.tag}}
-          files: |
-            src/${{env.name}}-${{env.tag}}.zip
+          files: '{"src/${{env.name}}-${{env.tag}}.zip", "src/${{env.name}}-${{env.tag}}-resourcepack.zip"}'
+          primary-file: src/${{env.name}}-${{env.tag}}.zip
+          file-types: '{"src/${{env.name}}-${{env.tag}}-resourcepack.zip": "required-resource-pack"}'
           game-versions: ${{steps.read_file.outputs.contents}}
-          loaders: minecraft datapack
+          loaders: datapack
