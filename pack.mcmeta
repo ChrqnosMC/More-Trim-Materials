@@ -2,11 +2,11 @@
 	"pack": {
 		"pack_format": 110,
 		"supported_formats": [
-			34,
+			48,
 			110
 		],
 		"min_format": [
-			34,
+			48,
 			0
 		],
 		"max_format": [
